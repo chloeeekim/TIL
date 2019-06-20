@@ -21,6 +21,7 @@ Example:
 Note:
 dict 사용 (key : 출현한 문자 / value : 인덱스)
 sliding window 방식
+반복된 문자가 나타났을 경우, 지금의 substring에의 포함 여부 확인 후 업데이트
 
 """
 
