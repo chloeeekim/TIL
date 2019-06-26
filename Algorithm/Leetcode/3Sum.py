@@ -27,7 +27,9 @@ class Solution:
         nums.sort()
         res = set()
         l = len(nums)
-        for i in range(l) :
+        for i in range(l) :            
+            if nums[i] > 0 :
+                break
             target = -nums[i]
             j, k = i + 1, l - 1
             while j < k :
