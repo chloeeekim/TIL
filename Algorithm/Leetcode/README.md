@@ -9,3 +9,4 @@
 #13_ [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) [*[code](RomanToInteger.py)*]  
 #14_ [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) [*[code](LongestCommonPrefix.py)*]  
 #15_ [3Sum](https://leetcode.com/problems/3sum/) [*[code](3Sum.py)*]  
+#20_ [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) [*[code](ValidParentheses.py)*]
