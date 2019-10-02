@@ -11,3 +11,4 @@
 #15_ [3Sum](https://leetcode.com/problems/3sum/) [*[code](3Sum.py)*]  
 #20_ [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) [*[code](ValidParentheses.py)*]  
 #21_ [Merged Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) [*[code](MergedTwoSortedLists.py)*]  
+#27_ [Remove Element](https://leetcode.com/problems/remove-element/) [*[code](RemoveElement.py)*]  
