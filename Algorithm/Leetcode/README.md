@@ -18,3 +18,4 @@
 #34_ [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [*[code](FindFirstAndLastPositionOfElementInSortedArray.py)*]  
 #35_ [Search Insert Position](https://leetcode.com/problems/search-insert-position/) [*[code](SearchInsertPosition.py)*]  
 #38_ [Count and Say](https://leetcode.com/problems/count-and-say/) [*[code](CountAndSay.py)*]  
+#58_ [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) [*[code](LengthOfLastWord.py)*]  
