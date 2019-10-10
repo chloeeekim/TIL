@@ -21,3 +21,4 @@
 #58_ [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) [*[code](LengthOfLastWord.py)*]  
 #66_ [Plus One](https://leetcode.com/problems/plus-one/) [*[code](PlusOne.py)*]  
 #70_ [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [*[code](ClimbingStairs.py)*]  
+#83_ [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) [*[code](RemoveDuplicatesFromSortedList.py)*]  
