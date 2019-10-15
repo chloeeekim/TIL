@@ -29,3 +29,4 @@
 #83_ [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) [*[code](RemoveDuplicatesFromSortedList.py)*]  
 #86_ [Partition List](https://leetcode.com/problems/partition-list/) [*[code](PartitionList.py)*]  
 #118_ [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) [*[code](PascalsTriangle.py)*]  
+#119_ [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) [*[code](PascalsTriangleII.py)*]  
