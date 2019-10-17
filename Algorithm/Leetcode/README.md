@@ -29,6 +29,7 @@
 #83_ [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) [*[code](RemoveDuplicatesFromSortedList.py)*]  
 #86_ [Partition List](https://leetcode.com/problems/partition-list/) [*[code](PartitionList.py)*]  
 #112_ [Path Sum](https://leetcode.com/problems/path-sum/) [*[code](PathSum.py)*]  
+#114_ [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) [*[code](FlattenBinaryTreeToLinkedList.py)*]  
 #118_ [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) [*[code](PascalsTriangle.py)*]  
 #119_ [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) [*[code](PascalsTriangleII.py)*]  
 #120_ [Triangle](https://leetcode.com/problems/triangle/) [*[code](Triangle.py)*]  
