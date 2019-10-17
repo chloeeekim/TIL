@@ -30,6 +30,7 @@
 #86_ [Partition List](https://leetcode.com/problems/partition-list/) [*[code](PartitionList.py)*]  
 #118_ [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) [*[code](PascalsTriangle.py)*]  
 #119_ [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) [*[code](PascalsTriangleII.py)*]  
+#120_ [Triangle](https://leetcode.com/problems/triangle/) [*[code](Triangle.py)*]  
 #125_ [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) [*[code](ValidPalindrome.py)*]  
 #136_ [Single Number](https://leetcode.com/problems/single-number/) [*[code](SingleNumber.py)*]  
 #137_ [Single Number II](https://leetcode.com/problems/single-number-ii/) [*[code](SingleNumberII.py)*]  
