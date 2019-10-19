@@ -30,6 +30,7 @@
 #80_ [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [*[code](RemoveDuplicatesFromSortedArrayII.py)*]  
 #83_ [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) [*[code](RemoveDuplicatesFromSortedList.py)*]  
 #86_ [Partition List](https://leetcode.com/problems/partition-list/) [*[code](PartitionList.py)*]  
+#94_ [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) [*[code](BinaryTreeInorderTraversal.py)*]  
 #100_ [Same Tree](https://leetcode.com/problems/same-tree/) [*[code](SameTree.py)*]  
 #112_ [Path Sum](https://leetcode.com/problems/path-sum/) [*[code](PathSum.py)*]  
 #114_ [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) [*[code](FlattenBinaryTreeToLinkedList.py)*]  
