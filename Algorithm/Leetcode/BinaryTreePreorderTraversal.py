@@ -10,7 +10,7 @@ Example:
 
 Note:
 preorder() 함수를 만들어 recursive하게 해결
-inorder과 함수 호출 순서만 변경
+inorder와 함수 호출 순서만 변경
 
 """
 
