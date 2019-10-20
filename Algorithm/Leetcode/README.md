@@ -41,3 +41,4 @@
 #136_ [Single Number](https://leetcode.com/problems/single-number/) [*[code](SingleNumber.py)*]  
 #137_ [Single Number II](https://leetcode.com/problems/single-number-ii/) [*[code](SingleNumberII.py)*]  
 #144_ [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) [*[code](BinaryTreePreorderTraversal.py)*]  
+#145_ [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) [*[code](BinaryTreePostorderTraversal.py)*]  
