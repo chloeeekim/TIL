@@ -10,8 +10,8 @@ Example:
 - Output : [[3],[9,20],[15,7]]
 
 Note:
-stack을 사용하여 해결
-해당 노드의 레벨을 확인하기 위하여 stack에서 [node, level]의 형태로 관리
+queue를 사용하여 해결
+해당 노드의 레벨을 확인하기 위하여 queue에서 [node, level]의 형태로 관리
 
 """
 
@@ -27,16 +27,16 @@ class Solution:
         if not root :
             return []
         res = [[]]
-        stack = [[root, 0]]
-        while stack :
-            temp = stack.pop()
+        queue = [[root, 0]]
+        while queue :
+            temp = queue.pop(0)
             node, level = temp[0], temp[1]
             if len(res) <= level :
                 res.append([node.val])
             else :
-                res[level].append(node.val)
-            if node.right :
-                stack.append([node.right, level + 1])
+                res[level].append(node.val)            
             if node.left :
-                stack.append([node.left, level + 1])
-        return res      
+                queue.append([node.left, level + 1])
+            if node.right :
+                queue.append([node.right, level + 1])
+        return res       
