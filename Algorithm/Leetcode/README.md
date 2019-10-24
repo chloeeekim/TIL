@@ -59,6 +59,7 @@
 #155_ [Min Stack](https://leetcode.com/problems/min-stack/) [*[code](MinStack.py)*]  
 #167_ [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) [*[code](TwoSumII-InputArrayIsSorted.py)*]  
 #168_ [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) [*[code](ExcelSheetColumnTitle.py)*]  
+#169_ [Majority Element](https://leetcode.com/problems/majority-element/) [*[code](MajorityElement.py)*]  
 #171_ [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) [*[code](ExcelSheetColumnNumber.py)*]  
 #189_ [Rotate Array](https://leetcode.com/problems/rotate-array/) [*[code](RotateArray.py)*]  
 #199_ [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) [*[code](BinaryTreeRightSideView.py)*]  
