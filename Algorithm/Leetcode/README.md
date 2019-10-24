@@ -26,6 +26,7 @@
 #47_ [Permutations II](https://leetcode.com/problems/permutations-ii/) [*[code](PermutationsII.py)*]  
 #53_ [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [*[code](MaximumSubarray.py)*]  
 #55_ [Jump Game](https://leetcode.com/problems/jump-game/) [*[code](JumpGame.py)*]  
+#56_ [Merge Intervals](https://leetcode.com/problems/merge-intervals/) [*[code](MergeIntervals.py)*]  
 #58_ [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) [*[code](LengthOfLastWord.py)*]  
 #62_ [Unique Paths](https://leetcode.com/problems/unique-paths/) [*[code](UniquePaths.py)*]  
 #63_ [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) [*[code](UniquePathsII.py)*]  
