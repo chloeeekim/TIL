@@ -77,3 +77,4 @@
 #242_ [Valid Anagram](https://leetcode.com/problems/valid-anagram/) [*[code](ValidAnagram.py)*]  
 #257_ [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) [*[code](BinaryTreePaths.py)*]  
 #258_ [Add Digits](https://leetcode.com/problems/add-digits/) [*[code](AddDigits.py)*]  
+#268_ [Missing Number](https://leetcode.com/problems/missing-number/) [*[code](MissingNumber.py)*]  
