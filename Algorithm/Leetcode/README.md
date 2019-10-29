@@ -75,3 +75,4 @@
 #226_ [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) [*[code](InvertBinaryTree.py)*]  
 #231_ [Power of Two](https://leetcode.com/problems/power-of-two/) [*[code](PowerOfTwo.py)*]  
 #242_ [Valid Anagram](https://leetcode.com/problems/valid-anagram/) [*[code](ValidAnagram.py)*]  
+#257_ [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) [*[code](BinaryTreePaths.py)*]  
