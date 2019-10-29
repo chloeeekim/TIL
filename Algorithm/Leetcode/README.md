@@ -74,3 +74,4 @@
 #219_ [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) [*[code](ContainsDuplicateII.py)*]  
 #226_ [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) [*[code](InvertBinaryTree.py)*]  
 #231_ [Power of Two](https://leetcode.com/problems/power-of-two/) [*[code](PowerOfTwo.py)*]  
+#242_ [Valid Anagram](https://leetcode.com/problems/valid-anagram/) [*[code](ValidAnagram.py)*]  
