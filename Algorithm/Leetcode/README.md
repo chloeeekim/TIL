@@ -79,3 +79,4 @@
 #258_ [Add Digits](https://leetcode.com/problems/add-digits/) [*[code](AddDigits.py)*]  
 #260_ [Single Number III](https://leetcode.com/problems/single-number-iii/) [*[code](SingleNumberIII.py)*]  
 #268_ [Missing Number](https://leetcode.com/problems/missing-number/) [*[code](MissingNumber.py)*]  
+#283_ [Move Zeroes](https://leetcode.com/problems/move-zeroes/) [*[code](MoveZeroes.py)*]  
