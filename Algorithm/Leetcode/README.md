@@ -80,3 +80,4 @@
 #260_ [Single Number III](https://leetcode.com/problems/single-number-iii/) [*[code](SingleNumberIII.py)*]  
 #268_ [Missing Number](https://leetcode.com/problems/missing-number/) [*[code](MissingNumber.py)*]  
 #283_ [Move Zeroes](https://leetcode.com/problems/move-zeroes/) [*[code](MoveZeroes.py)*]  
+#303_ [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) [*[code](RangeSumQuery-Immutable.py)*]  
