@@ -84,4 +84,5 @@
 #304_ [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) [*[code](RangeSumQuery2D-Immutable.py)*]  
 #307_ [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) [*[code](RangeSumQuery-Mutable.py)*]  
 #326_ [Power of Three](https://leetcode.com/problems/power-of-three/) [*[code](PowerOfThree.py)*]  
+#338_ [Counting Bits](https://leetcode.com/problems/counting-bits/) [*[code](CountingBits.py)*]  
 #342_ [Power of Four](https://leetcode.com/problems/power-of-four/) [*[code](PowerOfFour.py)*]  
