@@ -92,3 +92,4 @@
 #349_ [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) [*[code](IntersectionOfTwoArrays.py)*]  
 #387_ [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) [*[code](FirstUniqueCharacterInAString.py)*]  
 #392_ [Is Subsequence](https://leetcode.com/problems/is-subsequence/) [*[code](IsSubsequence.py)*]  
+#412_ [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) [*[code](FizzBuzz.py)*]  
