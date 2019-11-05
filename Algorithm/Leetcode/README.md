@@ -94,3 +94,4 @@
 #392_ [Is Subsequence](https://leetcode.com/problems/is-subsequence/) [*[code](IsSubsequence.py)*]  
 #412_ [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) [*[code](FizzBuzz.py)*]  
 #414_ [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) [*[code](ThirdMaximumNumber.py)*]  
+#434_ [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) [*[code](NumberOfSegmentsInAString.py)*]  
