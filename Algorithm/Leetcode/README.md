@@ -103,3 +103,4 @@
 #515_ [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [*[code](FindLargestValueInEachTreeRow.py)*]  
 #551_ [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) [*[code](StudentAttendanceRecordI.py)*]  
 #557_ [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) [*[code](ReverseWordsInAStringIII.py)*]  
+#589_ [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) [*[code](N-aryTreePreorderTraversal.py)*]  
