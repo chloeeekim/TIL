@@ -14,6 +14,7 @@
 #20_ [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) [*[code](ValidParentheses.py)*]  
 #21_ [Merged Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) [*[code](MergedTwoSortedLists.py)*]  
 #22_ [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) [*[code](GenerateParentheses.py)*]  
+#24_ [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) [*[code](SwapNodesInPairs.py)*]  
 #26_ [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [*[code](RemoveDuplicatesFromSortedArray.py)*]  
 #27_ [Remove Element](https://leetcode.com/problems/remove-element/) [*[code](RemoveElement.py)*]  
 #28_ [Implement strStr()](https://leetcode.com/problems/implement-strstr/) [*[code](ImplementStrStr().py)*]  
