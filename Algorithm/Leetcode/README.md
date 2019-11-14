@@ -24,6 +24,7 @@
 #38_ [Count and Say](https://leetcode.com/problems/count-and-say/) [*[code](CountAndSay.py)*]  
 #39_ [Combination Sum](https://leetcode.com/problems/combination-sum/) [*[code](CombinationSum.py)*]  
 #40_ [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [*[code](CombinationSumII.py)*]  
+#41_ [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) [*[code](FirstMissingPositive.py)*]  
 #46_ [Permutations](https://leetcode.com/problems/permutations/) [*[code](Permutations.py)*]  
 #47_ [Permutations II](https://leetcode.com/problems/permutations-ii/) [*[code](PermutationsII.py)*]  
 #53_ [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [*[code](MaximumSubarray.py)*]  
