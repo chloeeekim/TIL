@@ -28,6 +28,7 @@
 #41_ [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) [*[code](FirstMissingPositive.py)*]  
 #46_ [Permutations](https://leetcode.com/problems/permutations/) [*[code](Permutations.py)*]  
 #47_ [Permutations II](https://leetcode.com/problems/permutations-ii/) [*[code](PermutationsII.py)*]  
+#49_ [Group Anagrams](https://leetcode.com/problems/group-anagrams/) [*[code](GroupAnagrams.py)*]  
 #53_ [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [*[code](MaximumSubarray.py)*]  
 #55_ [Jump Game](https://leetcode.com/problems/jump-game/) [*[code](JumpGame.py)*]  
 #56_ [Merge Intervals](https://leetcode.com/problems/merge-intervals/) [*[code](MergeIntervals.py)*]  
