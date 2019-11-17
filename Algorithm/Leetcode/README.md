@@ -44,6 +44,7 @@
 #77_ [Combinations](https://leetcode.com/problems/combinations/) [*[code](Combinations.py)*]  
 #78_ [Subsets](https://leetcode.com/problems/subsets/) [*[code](Subsets.py)*]  
 #80_ [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [*[code](RemoveDuplicatesFromSortedArrayII.py)*]  
+#82_ [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) [*[code](RemoveDuplicatesFromSortedListII.py)*]  
 #83_ [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) [*[code](RemoveDuplicatesFromSortedList.py)*]  
 #86_ [Partition List](https://leetcode.com/problems/partition-list/) [*[code](PartitionList.py)*]  
 #88_ [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) [*[code](MergeSortedArray.py)*]  
