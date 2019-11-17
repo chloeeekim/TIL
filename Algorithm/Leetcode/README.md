@@ -64,6 +64,7 @@
 #120_ [Triangle](https://leetcode.com/problems/triangle/) [*[code](Triangle.py)*]  
 #125_ [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) [*[code](ValidPalindrome.py)*]  
 #129_ [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) [*[code](SumRootToLeafNumbers.py)*]  
+#131_ [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) [*[code](PalindromePartitioning.py)*]  
 #136_ [Single Number](https://leetcode.com/problems/single-number/) [*[code](SingleNumber.py)*]  
 #137_ [Single Number II](https://leetcode.com/problems/single-number-ii/) [*[code](SingleNumberII.py)*]  
 #144_ [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) [*[code](BinaryTreePreorderTraversal.py)*]  
