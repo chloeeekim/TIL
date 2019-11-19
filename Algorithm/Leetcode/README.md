@@ -84,6 +84,7 @@
 #199_ [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) [*[code](BinaryTreeRightSideView.py)*]  
 #202_ [Happy Number](https://leetcode.com/problems/happy-number/) [*[code](HappyNumber.py)*]  
 #203_ [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) [*[code](RemoveLinkedListElements.py)*]  
+#204_ [Count Primes](https://leetcode.com/problems/count-primes/) [*[code](CountPrimes.py)*]  
 #205_ [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) [*[code](IsomorphicStrings.py)*]  
 #206_ [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) [*[code](ReverseLinkedList.py)*]  
 #215_ [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) [*[code](KthLargestElementInAnArray.py)*]  
