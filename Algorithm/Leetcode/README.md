@@ -108,6 +108,7 @@
 #338_ [Counting Bits](https://leetcode.com/problems/counting-bits/) [*[code](CountingBits.py)*]  
 #342_ [Power of Four](https://leetcode.com/problems/power-of-four/) [*[code](PowerOfFour.py)*]  
 #344_ [Reverse String](https://leetcode.com/problems/reverse-string/) [*[code](ReverseString.py)*]  
+#345_ [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) [*[code](ReverseVowelsOfAString.py)*]  
 #349_ [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) [*[code](IntersectionOfTwoArrays.py)*]  
 #387_ [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) [*[code](FirstUniqueCharacterInAString.py)*]  
 #392_ [Is Subsequence](https://leetcode.com/problems/is-subsequence/) [*[code](IsSubsequence.py)*]  
