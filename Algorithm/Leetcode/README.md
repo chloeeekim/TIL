@@ -126,6 +126,7 @@
 #485_ [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) [*[code](MaxConsecutiveOnes.py)*]  
 #496_ [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) [*[code](NextGreaterElementI.py)*]  
 #500_ [Keyboard Row](https://leetcode.com/problems/keyboard-row/) [*[code](KeyboardRow.py)*]  
+#504_ [Base 7](https://leetcode.com/problems/base-7/) [*[code](base7.py)*]  
 #509_ [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [*[code](FibonacciNumber.py)*]  
 #513_ [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) [*[code](FindBottomLeftTreeValue.py)*]  
 #515_ [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [*[code](FindLargestValueInEachTreeRow.py)*]  
