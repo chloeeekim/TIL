@@ -138,6 +138,7 @@
 #589_ [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) [*[code](N-aryTreePreorderTraversal.py)*]  
 #590_ [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) [*[code](N-aryTreePostorderTraversal.py)*]  
 #599_ [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) [*[code](MinimumIndexSumOfTwoLists.py)*]  
+#606_ [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) [*[code](ConstructStringFromBinaryTree.py)*]  
 #637_ [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) [*[code](AverageOfLevelsInBinaryTree.py)*]  
 #647_ [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) [*[code](PalindromicSubstrings.py)*]  
 #648_ [Replace Words](https://leetcode.com/problems/replace-words/) [*[code](ReplaceWords.py)*]  
