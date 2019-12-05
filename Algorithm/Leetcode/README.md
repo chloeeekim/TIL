@@ -153,3 +153,4 @@
 #709_ [To Lower Case](https://leetcode.com/problems/to-lower-case/) [*[code](ToLowerCase.py)*]  
 #717_ [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) [*[code](1-bitAnd2-bitCharacters.py)*]  
 #724_ [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) [*[code](FindPivotIndex.py)*]  
+#746_ [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [*[code](MinCostClimbingStairs.py)*]  
