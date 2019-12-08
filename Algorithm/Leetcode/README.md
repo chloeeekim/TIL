@@ -156,3 +156,4 @@
 #746_ [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [*[code](MinCostClimbingStairs.py)*]  
 #747_ [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) [*[code](LargestNumberAtLeastTwiceOfOthers.py)*]  
 #748_ [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) [*[code](ShortestCompletingWord.py)*]  
+#766_ [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) [*[code](ToeplitzMatrix.py)*]  
