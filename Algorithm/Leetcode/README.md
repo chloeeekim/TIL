@@ -101,6 +101,7 @@
 #260_ [Single Number III](https://leetcode.com/problems/single-number-iii/) [*[code](SingleNumberIII.py)*]  
 #268_ [Missing Number](https://leetcode.com/problems/missing-number/) [*[code](MissingNumber.py)*]  
 #283_ [Move Zeroes](https://leetcode.com/problems/move-zeroes/) [*[code](MoveZeroes.py)*]  
+#287_ [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [*[code](FindTheDuplicateNumber.py)*]  
 #300_ [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) [*[code](LongestIncreasingSubsequence.py)*]  
 #303_ [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) [*[code](RangeSumQuery-Immutable.py)*]  
 #304_ [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) [*[code](RangeSumQuery2D-Immutable.py)*]  
