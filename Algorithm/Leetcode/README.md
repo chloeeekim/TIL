@@ -115,6 +115,7 @@
 #345_ [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) [*[code](ReverseVowelsOfAString.py)*]  
 #349_ [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) [*[code](IntersectionOfTwoArrays.py)*]  
 #350_ [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) [*[code](IntersectionOfTwoArraysII.py)*]  
+#374_ [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) [*[code](GuessNumberHigherOrLower.py)*]  
 #386_ [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) [*[code](LexicographicalNumbers.py)*]  
 #387_ [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) [*[code](FirstUniqueCharacterInAString.py)*]  
 #392_ [Is Subsequence](https://leetcode.com/problems/is-subsequence/) [*[code](IsSubsequence.py)*]  
