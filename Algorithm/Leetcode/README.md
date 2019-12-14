@@ -120,6 +120,7 @@
 #387_ [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) [*[code](FirstUniqueCharacterInAString.py)*]  
 #392_ [Is Subsequence](https://leetcode.com/problems/is-subsequence/) [*[code](IsSubsequence.py)*]  
 #404_ [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) [*[code](SumOfLeftLeaves.py)*]  
+#405_ [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) [*[code](ConvertANumberToHexadecimal.py)*]  
 #412_ [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) [*[code](FizzBuzz.py)*]  
 #414_ [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) [*[code](ThirdMaximumNumber.py)*]  
 #434_ [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) [*[code](NumberOfSegmentsInAString.py)*]  
