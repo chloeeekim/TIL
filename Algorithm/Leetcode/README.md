@@ -134,6 +134,7 @@
 #482_ [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) [*[code](LicenseKeyFormatting.py)*]  
 #485_ [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) [*[code](MaxConsecutiveOnes.py)*]  
 #496_ [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) [*[code](NextGreaterElementI.py)*]  
+#498_ [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) [*[code](DiagonalTraverse.py)*]  
 #500_ [Keyboard Row](https://leetcode.com/problems/keyboard-row/) [*[code](KeyboardRow.py)*]  
 #504_ [Base 7](https://leetcode.com/problems/base-7/) [*[code](base7.py)*]  
 #509_ [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [*[code](FibonacciNumber.py)*]  
