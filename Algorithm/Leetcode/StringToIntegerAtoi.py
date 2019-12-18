@@ -30,10 +30,16 @@ Example:
 - Input 값이 32-bit signed integer의 범위를 넘어섰기 때문에, INT_MIN(-2^31)을 리턴
 
 Note:
+- Solution 1
 strip() : 문자열 양쪽으로 한 칸 이상의 연속된 공백을 모두 지우는 함수
 split() : 공백을 기준으로 문자열을 나누어 리스트로 반환
+- Solution 2
+str을 한 문자씩 확인하면서 숫자를 찾는 방식
+
 
 """
+
+# Solution 1
 
 class Solution:
     def myAtoi(self, str: str) -> int:
@@ -59,3 +65,29 @@ class Solution:
             return 2 ** 31 - 1
         else :
             return res
+
+# Solution 2
+
+class Solution:
+    def myAtoi(self, str: str) -> int:
+        res, idx, isminus = 0, 0, False
+        intmax, intmin = 2 ** 31 - 1, -2 ** 31
+        if not str :
+            return 0
+        for i in range(len(str)) :
+            if str[i] != ' ' :
+                idx = i
+                break
+        if str[idx] == '-' or str[idx] == '+' :
+            isminus = True if str[idx] == '-' else False
+            idx += 1
+        for i in range(idx, len(str)) :
+            if str[i].isdigit() :
+                res = res * 10 + int(str[i])
+            else :
+                break
+        if isminus :
+            res *= -1
+            return intmin if res < intmin else res
+        else :
+            return intmax if res > intmax else res
