@@ -132,6 +132,7 @@
 #448_ [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) [*[code](FindAllNumbersDisappearedInAnArray.py)*]  
 #463_ [Island Perimeter](https://leetcode.com/problems/island-perimeter/) [*[code](IslandPerimeter.py)*]  
 #476_ [Number Complement](https://leetcode.com/problems/number-complement/) [*[code](NumberComplement.py)*]  
+#481_ [Magical String](https://leetcode.com/problems/magical-string/) [*[code](MagicalString.py)*]  
 #482_ [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) [*[code](LicenseKeyFormatting.py)*]  
 #485_ [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) [*[code](MaxConsecutiveOnes.py)*]  
 #492_ [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) [*[code](ConstructTheRectangle.py)*]  
