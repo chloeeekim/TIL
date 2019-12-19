@@ -134,6 +134,7 @@
 #476_ [Number Complement](https://leetcode.com/problems/number-complement/) [*[code](NumberComplement.py)*]  
 #482_ [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) [*[code](LicenseKeyFormatting.py)*]  
 #485_ [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) [*[code](MaxConsecutiveOnes.py)*]  
+#492_ [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) [*[code](ConstructTheRectangle.py)*]  
 #496_ [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) [*[code](NextGreaterElementI.py)*]  
 #498_ [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) [*[code](DiagonalTraverse.py)*]  
 #500_ [Keyboard Row](https://leetcode.com/problems/keyboard-row/) [*[code](KeyboardRow.py)*]  
