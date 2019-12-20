@@ -163,6 +163,7 @@
 #682_ [Baseball Game](https://leetcode.com/problems/baseball-game/) [*[code](BaseballGame.py)*]  
 #700_ [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) [*[code](SearchInABinarySearchTree.py)*]  
 #701_ [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) [*[code](InsertIntoABinarySearchTree.py)*]  
+#704_ [Binary Search](https://leetcode.com/problems/binary-search/) [*[code](BinarySearch.py)*]  
 #709_ [To Lower Case](https://leetcode.com/problems/to-lower-case/) [*[code](ToLowerCase.py)*]  
 #717_ [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) [*[code](1-bitAnd2-bitCharacters.py)*]  
 #724_ [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) [*[code](FindPivotIndex.py)*]  
