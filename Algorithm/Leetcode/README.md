@@ -174,3 +174,4 @@
 #766_ [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) [*[code](ToeplitzMatrix.py)*]  
 #771_ [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) [*[code](JewelsAndStones.py)*]  
 #784_ [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) [*[code](LetterCasePermutation.py)*]  
+#804_ [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) [*[code](UniqueMorseCodeWords.py)*]  
