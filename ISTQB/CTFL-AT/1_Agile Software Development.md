@@ -1,6 +1,6 @@
 # 1. Agile Software Development
 - 1.1 The fundamentals of Agile Software Development
-    - [1.1.1 Agile Software Development and the Agile Manifesto](#1.1.1-Agile-Software-Development-and-the-Agile-Manifesto)
+    - [1.1.1 Agile Software Development and the Agile Manifesto](#111-agile-software-development-and-the-agile-manifesto)
     - 1.1.2 Whole-Team Approach
     - 1.1.3 Early and Frequent Feedback
 - 1.2 Aspects of Agile Approaches
