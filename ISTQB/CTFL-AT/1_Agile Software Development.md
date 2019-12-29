@@ -67,3 +67,4 @@ Core Agile Manifesto values are captured in 12 principles:
 
 ### 1.1.2 Whole-Team Approach
 
+Whole-Team Approach: involving everyone with knowledge and skills neccessary to ensure project success
