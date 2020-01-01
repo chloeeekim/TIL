@@ -71,3 +71,21 @@ Whole-Team Approach: involving everyone with knowledge and skills neccessary to 
 Includes customer representatives and other business stakeholders  
 Should be relatively small: 3-9 people  
 Sharing same workspace is ideal: for strong communication and interaction  
+Supported through daily stand-up meetings: involving all members, communicated work progress and impediments  
+Promotes effective and efficient team dynamics  
+
+Main benefits of Agile development include:  
+- Enhancing communication and collaboration within the team
+- Enabling the various skill sets within the team to be leveraged to the benefit of the project
+- Making quality everyone's responsibility
+
+**Whole team is responsible for quality** in Agile projects  
+testers, developers and business repressentatives work together in every step of development process  
+Testers work closely with others to ensure desired quality levels:  
+- Supporting and collaborating with business representatives to create suitable acceptance tests
+- Working with developers to agree on testing strategy
+- Deciding on test automation approaches
+Testers can transfer and extend testing knowledge to others and influence development process  
+
+Whole team is involved in any consultations or meetings about product features  
+**Power of Three**: concept of involving testers, developers and business representatives in all feature discussions  
