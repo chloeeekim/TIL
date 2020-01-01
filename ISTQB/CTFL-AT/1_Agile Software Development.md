@@ -3,7 +3,7 @@
 > - 1.1 The fundamentals of Agile Software Development
 >    - [1.1.1 Agile Software Development and the Agile Manifesto](#111-agile-software-development-and-the-agile-manifesto)
 >    - [1.1.2 Whole-Team Approach](#112-whole-team-approach)
->    - 1.1.3 Early and Frequent Feedback
+>    - [1.1.3 Early and Frequent Feedback](#113-early-and-frequent-feedback)
 > - 1.2 Aspects of Agile Approaches
 >    - 1.2.1 Agile Software Development Approaches
 >    - 1.2.2 Collaborative User Story Creation
@@ -70,7 +70,7 @@ Core Agile Manifesto values are captured in 12 principles:
 Whole-Team Approach: involving everyone with knowledge and skills neccessary to ensure project success  
 Includes customer representatives and other business stakeholders  
 Should be relatively small: 3-9 people  
-Sharing same workspace is ideal: for strong communication and interaction  
+Sharing same workspace is *ideal*: for strong communication and interaction  
 Supported through daily stand-up meetings: involving all members, communicated work progress and impediments  
 Promotes effective and efficient team dynamics  
 
@@ -89,3 +89,9 @@ Testers can transfer and extend testing knowledge to others and influence develo
 
 Whole team is involved in any consultations or meetings about product features  
 **Power of Three**: concept of involving testers, developers and business representatives in all feature discussions  
+
+
+### 1.1.3 Early and Frequent Feedback
+
+Agile projects have short iterations enabling to receive early and continuous feedback throughout development lifecycle  
+**Continuous integration** is one way to provide rapid feedback  
