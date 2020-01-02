@@ -95,3 +95,10 @@ Whole team is involved in any consultations or meetings about product features
 
 Agile projects have short iterations enabling to receive early and continuous feedback throughout development lifecycle  
 **Continuous integration** is one way to provide rapid feedback  
+
+Benefits of early and frequent feedback include:
+- Avoiding requirements misunderstandings: issues detecting later in progress are more expensive to fix
+- Clarifying customer features requests, making them available for customer use early: product better reflects what the customer wants
+- Discovering, isolating, and resolving quality problems early
+- Providing information to team regarding its productivity and ability to deliver
+- Promoting consistent project momentum
