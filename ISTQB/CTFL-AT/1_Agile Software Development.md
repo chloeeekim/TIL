@@ -98,6 +98,9 @@ Whole team is involved in any consultations or meetings about product features
 Agile projects have short iterations enabling to receive early and continuous feedback throughout development lifecycle  
 **Continuous integration** is one way to provide rapid feedback  
 
+Helps focus on features with the highest business value or associated risk  
+Helps manage team better cause capability of team is transparent to everyone  
+
 Benefits of early and frequent feedback include:  
 - Avoiding requirements misunderstandings: issues detecting later in progress are more expensive to fix
 - Clarifying customer features requests, making them available for customer use early: product better reflects what the customer wants
@@ -109,3 +112,17 @@ Benefits of early and frequent feedback include:
 ## 1.2 Aspects of Agile Approaches
 
 ### 1.2.1 Agile Software Development Approaches
+
+Each Agile approaches implement values and principles of the Agile Manifesto in different ways  
+
+#### Extreme Programming (XP)
+
+Originally introduced by Kent Beck  
+Described software development by certain values, principles and development practices  
+Many of Agile approaches are influenced by XP and its values and principles  
+
+Five values to guide development: communication, simplicity, feedback, courage, respect  
+
+Principles(additional guideline): humanity, economics, mutual benefit, self-similarity, improvement, diversity, reflection, flow, opportunity, redundancy, failure, quality, baby steps, accepted responsibility  
+
+Thirteen primary practices: sit together, whole team, informative workspace, energized work, pair programming, stories, weekly cycle, quarterly cycle, slack, ten-minute build, continuous integration, test first programming, incremental design  
