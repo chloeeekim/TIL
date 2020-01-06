@@ -126,3 +126,20 @@ Five values to guide development: communication, simplicity, feedback, courage, 
 Principles(additional guideline): humanity, economics, mutual benefit, self-similarity, improvement, diversity, reflection, flow, opportunity, redundancy, failure, quality, baby steps, accepted responsibility  
 
 Thirteen primary practices: sit together, whole team, informative workspace, energized work, pair programming, stories, weekly cycle, quarterly cycle, slack, ten-minute build, continuous integration, test first programming, incremental design  
+
+#### Scrum
+
+Agile management framework  
+Constituent instruments and practices are contained:  
+- **Sprint**: called iteration of fixed length (*usually* two to four weeks)
+- Product Increment: each sprint results in a **releasable/shippable** product (called an increment)
+- Product Backlog: prioritized list of planned product items. evolves from sprint to sprint (called backlog refinement)
+- Sprint Backlog: selected a set of highest priority items of each sprint. referred **pull principle** rather than push principle
+- Definition of Done: scrum team discusses and defines appropriate criteria for sprint completion
+- Timeboxing
+- Transparency
+
+Defines three roles:
+- Scrum Master
+- Product Owner
+- Development Team
