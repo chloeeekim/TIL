@@ -178,3 +178,4 @@
 #806_ [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) [*[code](NumberOfLinesToWriteString.py)*]  
 #811_ [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) [*[code](SubdomainVisitCount.py)*]  
 #824_ [Goat Latin](https://leetcode.com/problems/goat-latin/) [*[code](GoatLatin.py)*]  
+#832_ [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) [*[code](FlippingAnImage.py)*]  
