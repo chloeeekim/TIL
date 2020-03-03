@@ -117,6 +117,7 @@
 #349_ [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) [*[code](Codes/IntersectionOfTwoArrays.py)*]  
 #350_ [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) [*[code](Codes/IntersectionOfTwoArraysII.py)*]  
 #374_ [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) [*[code](Codes/GuessNumberHigherOrLower.py)*]  
+#380_ [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) [*[code](Codes/InsertDeleteGetRandomO(1).py)*]  
 #386_ [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) [*[code](Codes/LexicographicalNumbers.py)*]  
 #387_ [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) [*[code](Codes/FirstUniqueCharacterInAString.py)*]  
 #392_ [Is Subsequence](https://leetcode.com/problems/is-subsequence/) [*[code](Codes/IsSubsequence.py)*]  
