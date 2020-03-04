@@ -52,6 +52,7 @@
 #90_ [Subsets II](https://leetcode.com/problems/subsets-ii/) [*[code](Codes/SubsetsII.py)*]  
 #94_ [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) [*[code](Codes/BinaryTreeInorderTraversal.py)*]  
 #96_ [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) [*[code](Codes/UniqueBinarySearchTrees.py)*]  
+#98_ [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) [*[code](Codes/ValidateBinarySearchTree.py)*]  
 #100_ [Same Tree](https://leetcode.com/problems/same-tree/) [*[code](Codes/SameTree.py)*]  
 #101_ [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) [*[code](Codes/SymmetricTree.py)*]  
 #102_ [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) [*[code](Codes/BinaryTreeLevelOrderTraversal.py)*]  
