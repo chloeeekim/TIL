@@ -64,6 +64,7 @@
 #112_ [Path Sum](https://leetcode.com/problems/path-sum/) [*[code](Codes/PathSum.py)*]  
 #113_ [Path Sum II](https://leetcode.com/problems/path-sum-ii/) [*[code](Codes/PathSumII.py)*]  
 #114_ [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) [*[code](Codes/FlattenBinaryTreeToLinkedList.py)*]  
+#116_ [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) [*[code](Codes/PopulatingNextRightPointersInEachNode.py)*]  
 #118_ [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) [*[code](Codes/PascalsTriangle.py)*]  
 #119_ [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) [*[code](Codes/PascalsTriangleII.py)*]  
 #120_ [Triangle](https://leetcode.com/problems/triangle/) [*[code](Codes/Triangle.py)*]  
