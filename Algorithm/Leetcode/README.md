@@ -41,6 +41,7 @@
 #67_ [Add Binary](https://leetcode.com/problems/add-binary/) [*[code](Codes/AddBinary.py)*]  
 #69_ [Sqrt(x)](https://leetcode.com/problems/sqrtx/) [*[code](Codes/Sqrt(X).py)*]  
 #70_ [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [*[code](Codes/ClimbingStairs.py)*]  
+#71_ [Simplify Path](https://leetcode.com/problems/simplify-path/) [*[code](Codes/SimplifyPath.py)*]  
 #73_ [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) [*[code](Codes/SetMatrixZeroes.py)*]  
 #74_ [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) [*[code](Codes/SearchA2DMatrix.py)*]  
 #77_ [Combinations](https://leetcode.com/problems/combinations/) [*[code](Codes/Combinations.py)*]  
