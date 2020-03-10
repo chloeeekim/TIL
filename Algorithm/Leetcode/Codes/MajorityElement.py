@@ -32,7 +32,7 @@ class Solution:
                 count[num] += 1
             else :
                 count[num] = 1
-            if count[num] >= lower :
+            if count[num] > lower :
                 return num
 
 # Solution 2
@@ -41,5 +41,5 @@ class Solution:
         lower = len(nums) / 2
         snums = set(nums)
         for num in snums :
-            if nums.count(num) >= lower :
+            if nums.count(num) > lower :
                 return num
