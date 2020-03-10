@@ -110,6 +110,7 @@
 #217_ [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) [*[code](Codes/ContainsDuplicate.py)*]  
 #219_ [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) [*[code](Codes/ContainsDuplicateII.py)*]  
 #226_ [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) [*[code](Codes/InvertBinaryTree.py)*]  
+#229_ [Majority Element II](https://leetcode.com/problems/majority-element-ii/) [*[code](Codes/MajorityElementII.py)*]  
 #230_ [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [*[code](Codes/KthSmallestElementInABST.py)*]  
 #231_ [Power of Two](https://leetcode.com/problems/power-of-two/) [*[code](Codes/PowerOfTwo.py)*]  
 #234_ [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) [*[code](Codes/PalindromeLinkedList.py)*]  
