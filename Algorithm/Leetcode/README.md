@@ -121,6 +121,7 @@
 #258_ [Add Digits](https://leetcode.com/problems/add-digits/) [*[code](Codes/AddDigits.py)*]  
 #260_ [Single Number III](https://leetcode.com/problems/single-number-iii/) [*[code](Codes/SingleNumberIII.py)*]  
 #268_ [Missing Number](https://leetcode.com/problems/missing-number/) [*[code](Codes/MissingNumber.py)*]  
+#278_ [First Bad Version](https://leetcode.com/problems/first-bad-version/) [*[code](Codes/FirstBadVersion.py)*]  
 #283_ [Move Zeroes](https://leetcode.com/problems/move-zeroes/) [*[code](Codes/MoveZeroes.py)*]  
 #287_ [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [*[code](Codes/FindTheDuplicateNumber.py)*]  
 #299_ [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) [*[code](Codes/BullsAndCows.py)*]  
