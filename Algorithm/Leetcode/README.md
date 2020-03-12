@@ -168,6 +168,7 @@
 #513_ [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) [*[code](Codes/FindBottomLeftTreeValue.py)*]  
 #515_ [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [*[code](Codes/FindLargestValueInEachTreeRow.py)*]  
 #520_ [Detect Capital](https://leetcode.com/problems/detect-capital/) [*[code](Codes/DetectCapital.py)*]  
+#543_ [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) [*[code](Codes/DiameterOfBinaryTree.py)*]  
 #551_ [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) [*[code](Codes/StudentAttendanceRecordI.py)*]  
 #557_ [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) [*[code](Codes/ReverseWordsInAStringIII.py)*]  
 #559_ [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [*[code](Codes/MaximumDepthOfN-aryTree.py)*]  
