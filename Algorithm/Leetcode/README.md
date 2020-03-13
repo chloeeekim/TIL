@@ -101,6 +101,7 @@
 #172_ [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) [*[code](Codes/FactorialTrailingZeroes.py)*]  
 #173_ [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) [*[code](Codes/BinarySearchTreeIterator.py)*]  
 #189_ [Rotate Array](https://leetcode.com/problems/rotate-array/) [*[code](Codes/RotateArray.py)*]  
+#198_ [House Robber](https://leetcode.com/problems/house-robber/) [*[code](Codes/HouseRobber.py)*]  
 #199_ [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) [*[code](Codes/BinaryTreeRightSideView.py)*]  
 #202_ [Happy Number](https://leetcode.com/problems/happy-number/) [*[code](Codes/HappyNumber.py)*]  
 #203_ [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) [*[code](Codes/RemoveLinkedListElements.py)*]  
