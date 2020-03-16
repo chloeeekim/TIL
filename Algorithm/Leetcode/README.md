@@ -32,6 +32,7 @@
 #46_ [Permutations](https://leetcode.com/problems/permutations/) [*[code](Codes/Permutations.py)*]  
 #47_ [Permutations II](https://leetcode.com/problems/permutations-ii/) [*[code](Codes/PermutationsII.py)*]  
 #49_ [Group Anagrams](https://leetcode.com/problems/group-anagrams/) [*[code](Codes/GroupAnagrams.py)*]  
+#50_ [Pow(x,n)](https://leetcode.com/problems/powx-n/) [*[code](Codes/Pow(x,n).py)*]  
 #51_ [N-Queens](https://leetcode.com/problems/n-queens/) [*[code](Codes/N-Queens.py)*]  
 #52_ [N-Queens II](https://leetcode.com/problems/n-queens-ii/) [*[code](Codes/N-QueensII.py)*]  
 #53_ [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [*[code](Codes/MaximumSubarray.py)*]  
