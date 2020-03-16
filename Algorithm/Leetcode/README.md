@@ -89,6 +89,7 @@
 #136_ [Single Number](https://leetcode.com/problems/single-number/) [*[code](Codes/SingleNumber.py)*]  
 #137_ [Single Number II](https://leetcode.com/problems/single-number-ii/) [*[code](Codes/SingleNumberII.py)*]  
 #141_ [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) [*[code](Codes/LinkedListCycle.py)*]  
+#142_ [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) [*[code](Codes/LinkedListCycleII.py)*]  
 #144_ [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) [*[code](Codes/BinaryTreePreorderTraversal.py)*]  
 #145_ [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) [*[code](Codes/BinaryTreePostorderTraversal.py)*]  
 #146_ [LRU Cache](https://leetcode.com/problems/lru-cache/) [*[code](Codes/LRUCache.py)*]  
