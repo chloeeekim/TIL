@@ -93,6 +93,7 @@
 #144_ [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) [*[code](Codes/BinaryTreePreorderTraversal.py)*]  
 #145_ [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) [*[code](Codes/BinaryTreePostorderTraversal.py)*]  
 #146_ [LRU Cache](https://leetcode.com/problems/lru-cache/) [*[code](Codes/LRUCache.py)*]  
+#150_ [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) [*[code](Codes/EvaluateReversePolishNotation.py)*]  
 #151_ [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) [*[code](Codes/ReverseWordsInAString.py)*]  
 #153_ [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [*[code](Codes/FindMinimumInRotatedSortedArray.py)*]  
 #154_ [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) [*[code](Codes/FindMinimumInRotatedSortedArrayII.py)*]  
