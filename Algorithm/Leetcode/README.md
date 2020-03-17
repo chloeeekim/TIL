@@ -98,6 +98,7 @@
 #153_ [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [*[code](Codes/FindMinimumInRotatedSortedArray.py)*]  
 #154_ [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) [*[code](Codes/FindMinimumInRotatedSortedArrayII.py)*]  
 #155_ [Min Stack](https://leetcode.com/problems/min-stack/) [*[code](Codes/MinStack.py)*]  
+#160_ [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) [*[code](Codes/IntersectionOfTwoLinkedLists.py)*]  
 #162_ [Find Peak Element](https://leetcode.com/problems/find-peak-element/) [*[code](Codes/FindPeakElement.py)*]  
 #164_ [Maximum Gap](https://leetcode.com/problems/maximum-gap/) [*[code](Codes/MaximumGap.py)*]  
 #165_ [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) [*[code](Codes/CompareVersionNumbers.py)*]  
