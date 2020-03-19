@@ -133,6 +133,7 @@
 #257_ [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) [*[code](Codes/BinaryTreePaths.py)*]  
 #258_ [Add Digits](https://leetcode.com/problems/add-digits/) [*[code](Codes/AddDigits.py)*]  
 #260_ [Single Number III](https://leetcode.com/problems/single-number-iii/) [*[code](Codes/SingleNumberIII.py)*]  
+#263_ [Ugly Number](https://leetcode.com/problems/ugly-number/) [*[code](Codes/UglyNumber.py)*]  
 #268_ [Missing Number](https://leetcode.com/problems/missing-number/) [*[code](Codes/MissingNumber.py)*]  
 #278_ [First Bad Version](https://leetcode.com/problems/first-bad-version/) [*[code](Codes/FirstBadVersion.py)*]  
 #283_ [Move Zeroes](https://leetcode.com/problems/move-zeroes/) [*[code](Codes/MoveZeroes.py)*]  
