@@ -177,6 +177,7 @@
 #498_ [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) [*[code](Codes/DiagonalTraverse.py)*]  
 #500_ [Keyboard Row](https://leetcode.com/problems/keyboard-row/) [*[code](Codes/KeyboardRow.py)*]  
 #504_ [Base 7](https://leetcode.com/problems/base-7/) [*[code](Codes/base7.py)*]  
+#507_ [Perfect Number](https://leetcode.com/problems/perfect-number/) [*[code](Codes/PerfectNumber.py)*]  
 #509_ [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [*[code](Codes/FibonacciNumber.py)*]  
 #513_ [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) [*[code](Codes/FindBottomLeftTreeValue.py)*]  
 #515_ [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [*[code](Codes/FindLargestValueInEachTreeRow.py)*]  
