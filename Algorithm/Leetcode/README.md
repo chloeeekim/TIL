@@ -190,6 +190,7 @@
 #566_ [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) [*[code](Codes/ReshapeTheMatrix.py)*]  
 #589_ [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) [*[code](Codes/N-aryTreePreorderTraversal.py)*]  
 #590_ [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) [*[code](Codes/N-aryTreePostorderTraversal.py)*]  
+#594_ [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) [*[code](Codes/LongestHarmoniousSubsequence.py)*]  
 #599_ [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) [*[code](Codes/MinimumIndexSumOfTwoLists.py)*]  
 #606_ [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) [*[code](Codes/ConstructStringFromBinaryTree.py)*]  
 #617_ [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) [*[code](Codes/MergeTwoBinaryTrees.py)*]  
