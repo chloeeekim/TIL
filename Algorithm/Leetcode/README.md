@@ -186,6 +186,7 @@
 #551_ [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) [*[code](Codes/StudentAttendanceRecordI.py)*]  
 #557_ [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) [*[code](Codes/ReverseWordsInAStringIII.py)*]  
 #559_ [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [*[code](Codes/MaximumDepthOfN-aryTree.py)*]  
+#561_ [Array Partition I](https://leetcode.com/problems/array-partition-i/) [*[code](Codes/ArrayPartitionI.py)*]  
 #563_ [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) [*[code](Codes/BinaryTreeTilt.py)*]  
 #566_ [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) [*[code](Codes/ReshapeTheMatrix.py)*]  
 #581_ [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) [*[code](Codes/ShortestUnsortedContinuousSubarray.py)*]  
