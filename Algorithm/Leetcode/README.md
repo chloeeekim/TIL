@@ -26,6 +26,7 @@
 #33_ [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [*[code](Codes/SearchInRotatedSortedArray.py)*]  
 #34_ [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [*[code](Codes/FindFirstAndLastPositionOfElementInSortedArray.py)*]  
 #35_ [Search Insert Position](https://leetcode.com/problems/search-insert-position/) [*[code](Codes/SearchInsertPosition.py)*]  
+#36_ [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) [*[code](Codes/ValidSudoku.py)*]  
 #38_ [Count and Say](https://leetcode.com/problems/count-and-say/) [*[code](Codes/CountAndSay.py)*]  
 #39_ [Combination Sum](https://leetcode.com/problems/combination-sum/) [*[code](Codes/CombinationSum.py)*]  
 #40_ [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [*[code](Codes/CombinationSumII.py)*]  
