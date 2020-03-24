@@ -22,6 +22,7 @@
 #26_ [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [*[code](Codes/RemoveDuplicatesFromSortedArray.py)*]  
 #27_ [Remove Element](https://leetcode.com/problems/remove-element/) [*[code](Codes/RemoveElement.py)*]  
 #28_ [Implement strStr()](https://leetcode.com/problems/implement-strstr/) [*[code](Codes/ImplementStrStr().py)*]  
+#32_ [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) [*[code](Codes/LongestValidParentheses.py)*]  
 #33_ [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [*[code](Codes/SearchInRotatedSortedArray.py)*]  
 #34_ [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [*[code](Codes/FindFirstAndLastPositionOfElementInSortedArray.py)*]  
 #35_ [Search Insert Position](https://leetcode.com/problems/search-insert-position/) [*[code](Codes/SearchInsertPosition.py)*]  
