@@ -42,6 +42,7 @@
 #55_ [Jump Game](https://leetcode.com/problems/jump-game/) [*[code](Codes/JumpGame.py)*]  
 #56_ [Merge Intervals](https://leetcode.com/problems/merge-intervals/) [*[code](Codes/MergeIntervals.py)*]  
 #58_ [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) [*[code](Codes/LengthOfLastWord.py)*]  
+#61_ [Rotate List](https://leetcode.com/problems/rotate-list/) [*[code](Codes/RotateList.py)*]  
 #62_ [Unique Paths](https://leetcode.com/problems/unique-paths/) [*[code](Codes/UniquePaths.py)*]  
 #63_ [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) [*[code](Codes/UniquePathsII.py)*]  
 #64_ [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) [*[code](Codes/MinimumPathSum.py)*]  
