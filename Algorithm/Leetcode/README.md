@@ -55,6 +55,7 @@
 #74_ [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) [*[code](Codes/SearchA2DMatrix.py)*]  
 #77_ [Combinations](https://leetcode.com/problems/combinations/) [*[code](Codes/Combinations.py)*]  
 #78_ [Subsets](https://leetcode.com/problems/subsets/) [*[code](Codes/Subsets.py)*]  
+#79_ [Word Search](https://leetcode.com/problems/word-search/) [*[code](Codes/WordSearch.py)*]  
 #80_ [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [*[code](Codes/RemoveDuplicatesFromSortedArrayII.py)*]  
 #81_ [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) [*[code](Codes/SearchInRotatedSortedArrayII.py)*]  
 #82_ [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) [*[code](Codes/RemoveDuplicatesFromSortedListII.py)*]  
