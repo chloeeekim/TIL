@@ -89,6 +89,7 @@
 #124_ [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) [*[code](Codes/BinaryTreeMaximumPathSum.py)*]  
 #125_ [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) [*[code](Codes/ValidPalindrome.py)*]  
 #127_ [Word Ladder](https://leetcode.com/problems/word-ladder/) [*[code](Codes/WordLadder.py)*]  
+#128_ [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) [*[code](Codes/LongestConsecutiveSequence.py)*]  
 #129_ [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) [*[code](Codes/SumRootToLeafNumbers.py)*]  
 #131_ [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) [*[code](Codes/PalindromePartitioning.py)*]  
 #134_ [Gas Station](https://leetcode.com/problems/gas-station/) [*[code](Codes/GasStation.py)*]  
