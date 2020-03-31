@@ -150,6 +150,7 @@
 #283_ [Move Zeroes](https://leetcode.com/problems/move-zeroes/) [*[code](Codes/MoveZeroes.py)*]  
 #287_ [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [*[code](Codes/FindTheDuplicateNumber.py)*]  
 #290_ [Word Pattern](https://leetcode.com/problems/word-pattern/) [*[code](Codes/WordPattern.py)*]  
+#292_ [Nim Game](https://leetcode.com/problems/nim-game/) [*[code](Codes/NimGame.py)*]  
 #299_ [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) [*[code](Codes/BullsAndCows.py)*]  
 #300_ [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) [*[code](Codes/LongestIncreasingSubsequence.py)*]  
 #303_ [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) [*[code](Codes/RangeSumQuery-Immutable.py)*]  
