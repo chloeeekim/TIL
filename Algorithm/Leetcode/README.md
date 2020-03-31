@@ -157,6 +157,7 @@
 #304_ [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) [*[code](Codes/RangeSumQuery2D-Immutable.py)*]  
 #307_ [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) [*[code](Codes/RangeSumQuery-Mutable.py)*]  
 #313_ [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) [*[code](Codes/SuperUglyNumber.py)*]  
+#318_ [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) [*[code](Codes/MaximumProductOfWordLengths.py)*]  
 #319_ [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) [*[code](Codes/BulbSwitcher.py)*]  
 #326_ [Power of Three](https://leetcode.com/problems/power-of-three/) [*[code](Codes/PowerOfThree.py)*]  
 #334_ [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) [*[code](Codes/IncreasingTripletSubsequence.py)*]  
