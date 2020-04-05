@@ -164,6 +164,7 @@
 #334_ [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) [*[code](Codes/IncreasingTripletSubsequence.py)*]  
 #338_ [Counting Bits](https://leetcode.com/problems/counting-bits/) [*[code](Codes/CountingBits.py)*]  
 #342_ [Power of Four](https://leetcode.com/problems/power-of-four/) [*[code](Codes/PowerOfFour.py)*]  
+#343_ [Integer Break](https://leetcode.com/problems/integer-break/) [*[code](Codes/IntegerBreak.py)*]  
 #344_ [Reverse String](https://leetcode.com/problems/reverse-string/) [*[code](Codes/ReverseString.py)*]  
 #345_ [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) [*[code](Codes/ReverseVowelsOfAString.py)*]  
 #349_ [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) [*[code](Codes/IntersectionOfTwoArrays.py)*]  
