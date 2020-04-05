@@ -161,6 +161,7 @@
 #319_ [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) [*[code](Codes/BulbSwitcher.py)*]  
 #322_ [Coin Change](https://leetcode.com/problems/coin-change/) [*[code](Codes/CoinChange.py)*]  
 #326_ [Power of Three](https://leetcode.com/problems/power-of-three/) [*[code](Codes/PowerOfThree.py)*]  
+#329_ [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) [*[code](Codes/LongestIncreasingPathInAMatrix.py)*]  
 #334_ [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) [*[code](Codes/IncreasingTripletSubsequence.py)*]  
 #338_ [Counting Bits](https://leetcode.com/problems/counting-bits/) [*[code](Codes/CountingBits.py)*]  
 #342_ [Power of Four](https://leetcode.com/problems/power-of-four/) [*[code](Codes/PowerOfFour.py)*]  
