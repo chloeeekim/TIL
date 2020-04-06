@@ -36,22 +36,22 @@ class Solution:
     def longestIncreasingPath(self, matrix: List[List[int]]) -> int:
         arr = [[-1 for _ in range(len(matrix[0]))] for _ in range(len(matrix))]
         res = 0
-        def findPath(x: int, y: int, count: int) -> int:
+        def findPath(x: int, y: int) -> int:
             if arr[x][y] != -1:
                 return arr[x][y]
             ncount = 0
             if x > 0 and matrix[x-1][y] > matrix[x][y]:
-                ncount = max(ncount, findPath(x-1, y, count+1))
+                ncount = max(ncount, findPath(x-1, y))
             if y > 0 and matrix[x][y-1] > matrix[x][y]:
-                ncount = max(ncount, findPath(x, y-1, count+1))
+                ncount = max(ncount, findPath(x, y-1))
             if x < len(matrix)-1 and matrix[x+1][y] > matrix[x][y]:
-                ncount = max(ncount, findPath(x+1, y, count+1))
+                ncount = max(ncount, findPath(x+1, y))
             if y < len(matrix[0])-1 and matrix[x][y+1] > matrix[x][y]:
-                ncount = max(ncount, findPath(x, y+1, count+1))
+                ncount = max(ncount, findPath(x, y+1))
             arr[x][y] = ncount + 1
             return ncount + 1
         for i in range(len(matrix)):
             for j in range(len(matrix[0])):
-                arr[i][j] = findPath(i, j, 0)
+                arr[i][j] = findPath(i, j)
                 res = max(res, arr[i][j])
         return res
