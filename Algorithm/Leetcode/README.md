@@ -194,6 +194,7 @@
 #448_ [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) [*[code](Codes/FindAllNumbersDisappearedInAnArray.py)*]  
 #456_ [132 Pattern](https://leetcode.com/problems/132-pattern/) [*[code](Codes/132Pattern.py)*]  
 #459_ [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) [*[code](Codes/RepeatedSubstringPattern.py)*]  
+#461_ [Hamming Distance](https://leetcode.com/problems/hamming-distance/) [*[code](Codes/HammingDistance.py)*]  
 #463_ [Island Perimeter](https://leetcode.com/problems/island-perimeter/) [*[code](Codes/IslandPerimeter.py)*]  
 #476_ [Number Complement](https://leetcode.com/problems/number-complement/) [*[code](Codes/NumberComplement.py)*]  
 #481_ [Magical String](https://leetcode.com/problems/magical-string/) [*[code](Codes/MagicalString.py)*]  
