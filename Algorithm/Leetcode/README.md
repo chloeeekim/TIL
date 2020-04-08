@@ -192,6 +192,7 @@
 #441_ [Arranging Coins](https://leetcode.com/problems/arranging-coins/) [*[code](Codes/ArrangingCoins.py)*]  
 #442_ [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) [*[code](Codes/FindAllDuplicatesInAnArray.py)*]  
 #448_ [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) [*[code](Codes/FindAllNumbersDisappearedInAnArray.py)*]  
+#456_ [132 Pattern](https://leetcode.com/problems/132-pattern/) [*[code](Codes/132Pattern.py)*]  
 #463_ [Island Perimeter](https://leetcode.com/problems/island-perimeter/) [*[code](Codes/IslandPerimeter.py)*]  
 #476_ [Number Complement](https://leetcode.com/problems/number-complement/) [*[code](Codes/NumberComplement.py)*]  
 #481_ [Magical String](https://leetcode.com/problems/magical-string/) [*[code](Codes/MagicalString.py)*]  
