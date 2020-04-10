@@ -254,3 +254,4 @@
 #814_ [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) [*[code](Codes/BinaryTreePruning.py)*]  
 #824_ [Goat Latin](https://leetcode.com/problems/goat-latin/) [*[code](Codes/GoatLatin.py)*]  
 #832_ [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) [*[code](Codes/FlippingAnImage.py)*]  
+#876_ [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [*[code](Codes/MiddleOfTheLinkedList.py)*]  
