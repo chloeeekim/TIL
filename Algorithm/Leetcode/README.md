@@ -259,3 +259,4 @@
 #832_ [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) [*[code](Codes/FlippingAnImage.py)*]  
 #844_ [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) [*[code](Codes/BackspaceStringCompare.py)*]  
 #876_ [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [*[code](Codes/MiddleOfTheLinkedList.py)*]  
+#1046_ [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) [*[code](Codes/LastStoneWeight.py)*]  
