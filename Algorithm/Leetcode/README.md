@@ -210,6 +210,7 @@
 #500_ [Keyboard Row](https://leetcode.com/problems/keyboard-row/) [*[code](Codes/KeyboardRow.py)*]  
 #503_ [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) [*[code](Codes/NextGreaterElementII.py)*]  
 #504_ [Base 7](https://leetcode.com/problems/base-7/) [*[code](Codes/base7.py)*]  
+#506_ [Relative Ranks](https://leetcode.com/problems/relative-ranks/) [*[code](Codes/RelativeRanks.py)*]  
 #507_ [Perfect Number](https://leetcode.com/problems/perfect-number/) [*[code](Codes/PerfectNumber.py)*]  
 #509_ [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [*[code](Codes/FibonacciNumber.py)*]  
 #513_ [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) [*[code](Codes/FindBottomLeftTreeValue.py)*]  
