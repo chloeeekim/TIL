@@ -241,6 +241,7 @@
 #657_ [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) [*[code](Codes/RobotReturnToOrigin.py)*]  
 #661_ [Image Smoother](https://leetcode.com/problems/image-smoother/) [*[code](Codes/ImageSmoother.py)*]  
 #677_ [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) [*[code](Codes/MapSumPairs.py)*]  
+#678_ [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) [*[code](Codes/ValidParenthesisString.py)*]  
 #682_ [Baseball Game](https://leetcode.com/problems/baseball-game/) [*[code](Codes/BaseballGame.py)*]  
 #700_ [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) [*[code](Codes/SearchInABinarySearchTree.py)*]  
 #701_ [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) [*[code](Codes/InsertIntoABinarySearchTree.py)*]  
