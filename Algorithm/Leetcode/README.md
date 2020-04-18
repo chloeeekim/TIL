@@ -219,6 +219,7 @@
 #520_ [Detect Capital](https://leetcode.com/problems/detect-capital/) [*[code](Codes/DetectCapital.py)*]  
 #521_ [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) [*[code](Codes/LongestUncommonSubsequenceI.py)*]  
 #525_ [Contiguous Array](https://leetcode.com/problems/contiguous-array/) [*[code](Codes/ContiguousArray.py)*]  
+#530_ [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) [*[code](Codes/MinimumAbsoluteDifferenceInBST.py)*]  
 #543_ [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) [*[code](Codes/DiameterOfBinaryTree.py)*]  
 #551_ [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) [*[code](Codes/StudentAttendanceRecordI.py)*]  
 #557_ [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) [*[code](Codes/ReverseWordsInAStringIII.py)*]  
