@@ -217,6 +217,7 @@
 #513_ [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) [*[code](Codes/FindBottomLeftTreeValue.py)*]  
 #515_ [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [*[code](Codes/FindLargestValueInEachTreeRow.py)*]  
 #520_ [Detect Capital](https://leetcode.com/problems/detect-capital/) [*[code](Codes/DetectCapital.py)*]  
+#521_ [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) [*[code](Codes/LongestUncommonSubsequenceI.py)*]  
 #525_ [Contiguous Array](https://leetcode.com/problems/contiguous-array/) [*[code](Codes/ContiguousArray.py)*]  
 #543_ [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) [*[code](Codes/DiameterOfBinaryTree.py)*]  
 #551_ [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) [*[code](Codes/StudentAttendanceRecordI.py)*]  
