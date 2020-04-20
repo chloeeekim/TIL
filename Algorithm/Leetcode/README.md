@@ -239,6 +239,7 @@
 #617_ [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) [*[code](Codes/MergeTwoBinaryTrees.py)*]  
 #628_ [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) [*[code](Codes/MaximumProductOfThreeNumbers.py)*]  
 #637_ [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) [*[code](Codes/AverageOfLevelsInBinaryTree.py)*]  
+#643_ [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) [*[code](Codes/MaximumAverageSubarrayI.py)*]  
 #647_ [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) [*[code](Codes/PalindromicSubstrings.py)*]  
 #648_ [Replace Words](https://leetcode.com/problems/replace-words/) [*[code](Codes/ReplaceWords.py)*]  
 #653_ [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) [*[code](Codes/TwoSumIV-InputIsABST.py)*]  
