@@ -249,6 +249,7 @@
 #654_ [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) [*[code](Codes/MaximumBinaryTree.py)*]  
 #657_ [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) [*[code](Codes/RobotReturnToOrigin.py)*]  
 #661_ [Image Smoother](https://leetcode.com/problems/image-smoother/) [*[code](Codes/ImageSmoother.py)*]  
+#669_ [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) [*[code](Codes/TrimABinarySearchTree.py)*]  
 #671_ [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) [*[code](Codes/SecondMinimumNodeInABinaryTree.py)*]  
 #677_ [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) [*[code](Codes/MapSumPairs.py)*]  
 #678_ [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) [*[code](Codes/ValidParenthesisString.py)*]  
