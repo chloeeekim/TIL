@@ -204,6 +204,7 @@
 #481_ [Magical String](https://leetcode.com/problems/magical-string/) [*[code](Codes/MagicalString.py)*]  
 #482_ [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) [*[code](Codes/LicenseKeyFormatting.py)*]  
 #485_ [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) [*[code](Codes/MaxConsecutiveOnes.py)*]  
+#491_ [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) [*[code](Codes/IncreasingSubsequences.py)*]  
 #492_ [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) [*[code](Codes/ConstructTheRectangle.py)*]  
 #496_ [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) [*[code](Codes/NextGreaterElementI.py)*]  
 #498_ [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) [*[code](Codes/DiagonalTraverse.py)*]  
