@@ -227,6 +227,7 @@
 #554_ [Brick Wall](https://leetcode.com/problems/brick-wall/) [*[code](Codes/BrickWall.py)*]  
 #557_ [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) [*[code](Codes/ReverseWordsInAStringIII.py)*]  
 #559_ [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) [*[code](Codes/MaximumDepthOfN-aryTree.py)*]  
+#560_ [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) [*[code](Codes/SubarraySumEqualsK.py)*]  
 #561_ [Array Partition I](https://leetcode.com/problems/array-partition-i/) [*[code](Codes/ArrayPartitionI.py)*]  
 #563_ [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) [*[code](Codes/BinaryTreeTilt.py)*]  
 #566_ [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) [*[code](Codes/ReshapeTheMatrix.py)*]  
