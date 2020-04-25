@@ -265,6 +265,7 @@
 #717_ [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) [*[code](Codes/1-bitAnd2-bitCharacters.py)*]  
 #718_ [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) [*[code](Codes/MaximumLengthOfRepeatedSubarray.py)*]  
 #724_ [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) [*[code](Codes/FindPivotIndex.py)*]  
+#725_ [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) [*[code](Codes/SplitLinkedListInParts.py)*]  
 #729_ [My Calendar I](https://leetcode.com/problems/my-calendar-i/) [*[code](Codes/MyCalendarI.py)*]  
 #746_ [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [*[code](Codes/MinCostClimbingStairs.py)*]  
 #747_ [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) [*[code](Codes/LargestNumberAtLeastTwiceOfOthers.py)*]  
