@@ -133,6 +133,7 @@
 #217_ [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) [*[code](Codes/ContainsDuplicate.py)*]  
 #219_ [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) [*[code](Codes/ContainsDuplicateII.py)*]  
 #220_ [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) [*[code](Codes/ContainsDuplicateIII.py)*]  
+#221_ [Maximal Square](https://leetcode.com/problems/maximal-square/) [*[code](Codes/MaximalSquare.py)*]  
 #226_ [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) [*[code](Codes/InvertBinaryTree.py)*]  
 #229_ [Majority Element II](https://leetcode.com/problems/majority-element-ii/) [*[code](Codes/MajorityElementII.py)*]  
 #230_ [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [*[code](Codes/KthSmallestElementInABST.py)*]  
