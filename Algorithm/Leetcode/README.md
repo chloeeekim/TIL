@@ -271,6 +271,7 @@
 #729_ [My Calendar I](https://leetcode.com/problems/my-calendar-i/) [*[code](Codes/MyCalendarI.py)*]  
 #733_ [Flood Fill](https://leetcode.com/problems/flood-fill/) [*[code](Codes/FloodFill.py)*]  
 #739_ [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) [*[code](Codes/DailyTemperatures.py)*]  
+#744_ [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) [*[code](Codes/FindSmallestLetterGreaterThanTarget.py)*]  
 #746_ [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [*[code](Codes/MinCostClimbingStairs.py)*]  
 #747_ [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) [*[code](Codes/LargestNumberAtLeastTwiceOfOthers.py)*]  
 #748_ [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) [*[code](Codes/ShortestCompletingWord.py)*]  
