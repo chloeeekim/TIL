@@ -275,6 +275,7 @@
 #746_ [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) [*[code](Codes/MinCostClimbingStairs.py)*]  
 #747_ [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) [*[code](Codes/LargestNumberAtLeastTwiceOfOthers.py)*]  
 #748_ [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) [*[code](Codes/ShortestCompletingWord.py)*]  
+#763_ [Partition Labels](https://leetcode.com/problems/partition-labels/) [*[code](Codes/PartitionLabels.py)*]  
 #766_ [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) [*[code](Codes/ToeplitzMatrix.py)*]  
 #771_ [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) [*[code](Codes/JewelsAndStones.py)*]  
 #783_ [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) [*[code](Codes/MinimumDistanceBetweenBSTNodes.py)*]  
