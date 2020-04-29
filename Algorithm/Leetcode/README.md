@@ -281,6 +281,7 @@
 #771_ [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) [*[code](Codes/JewelsAndStones.py)*]  
 #783_ [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) [*[code](Codes/MinimumDistanceBetweenBSTNodes.py)*]  
 #784_ [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) [*[code](Codes/LetterCasePermutation.py)*]  
+#791_ [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) [*[code](Codes/CustomSortString.py)*]  
 #796_ [Rotate String](https://leetcode.com/problems/rotate-string/) [*[code](Codes/RotateString.py)*]  
 #804_ [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) [*[code](Codes/UniqueMorseCodeWords.py)*]  
 #806_ [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) [*[code](Codes/NumberOfLinesToWriteString.py)*]  
