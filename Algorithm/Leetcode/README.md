@@ -289,6 +289,7 @@
 #811_ [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) [*[code](Codes/SubdomainVisitCount.py)*]  
 #814_ [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) [*[code](Codes/BinaryTreePruning.py)*]  
 #819_ [Most Common Word](https://leetcode.com/problems/most-common-word/) [*[code](Codes/MostCommonWord.py)*]  
+#821_ [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) [*[code](Codes/ShortestDistanceToACharacter.py)*]  
 #824_ [Goat Latin](https://leetcode.com/problems/goat-latin/) [*[code](Codes/GoatLatin.py)*]  
 #832_ [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) [*[code](Codes/FlippingAnImage.py)*]  
 #844_ [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) [*[code](Codes/BackspaceStringCompare.py)*]  
