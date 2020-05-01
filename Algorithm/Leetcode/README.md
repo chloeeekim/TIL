@@ -286,6 +286,7 @@
 #796_ [Rotate String](https://leetcode.com/problems/rotate-string/) [*[code](Codes/RotateString.py)*]  
 #804_ [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) [*[code](Codes/UniqueMorseCodeWords.py)*]  
 #806_ [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) [*[code](Codes/NumberOfLinesToWriteString.py)*]  
+#807_ [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) [*[code](Codes/MaxIncreaseToKeepCitySkyline.py)*]  
 #811_ [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) [*[code](Codes/SubdomainVisitCount.py)*]  
 #814_ [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) [*[code](Codes/BinaryTreePruning.py)*]  
 #819_ [Most Common Word](https://leetcode.com/problems/most-common-word/) [*[code](Codes/MostCommonWord.py)*]  
