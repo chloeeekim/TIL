@@ -292,6 +292,7 @@
 #819_ [Most Common Word](https://leetcode.com/problems/most-common-word/) [*[code](Codes/MostCommonWord.py)*]  
 #821_ [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) [*[code](Codes/ShortestDistanceToACharacter.py)*]  
 #824_ [Goat Latin](https://leetcode.com/problems/goat-latin/) [*[code](Codes/GoatLatin.py)*]  
+#830_ [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) [*[code](Codes/PositionsOfLargeGroups.py)*]  
 #832_ [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) [*[code](Codes/FlippingAnImage.py)*]  
 #844_ [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) [*[code](Codes/BackspaceStringCompare.py)*]  
 #876_ [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [*[code](Codes/MiddleOfTheLinkedList.py)*]  
