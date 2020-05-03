@@ -16,18 +16,17 @@ Example:
 - Output : true
 
 Note:
+collections.Counter를 사용
 각 문자에 포함된 알파벳의 개수를 파악하여 문자열을 만들 수 있는지 확인
 특정 알파벳이 없거나 개수가 모자란 경우 만들 수 없다
 
 """
 
+from collections import Counter
+
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
-        rcount, mcount = {}, {}
-        for ch in ransomNote:
-            rcount[ch] = rcount[ch] + 1 if ch in rcount else 1
-        for ch in magazine:
-            mcount[ch] = mcount[ch] + 1 if ch in mcount else 1
+        rcount, mcount = Counter(ransomNote), Counter(magazine)
         for letter, count in rcount.items():
             if letter not in mcount:
                 return False
