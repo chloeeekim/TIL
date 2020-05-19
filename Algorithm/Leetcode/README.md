@@ -299,6 +299,7 @@
 #852_ [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) [*[code](Codes/PeakIndexInAMountainArray.py)*]  
 #860_ [Lemonade Change](https://leetcode.com/problems/lemonade-change/) [*[code](Codes/LemonadeChange.py)*]  
 #867_ [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) [*[code](Codes/TransposeMatrix.py)*]  
+#868_ [Binary Gap](https://leetcode.com/problems/binary-gap/) [*[code](Codes/BinaryGap.py)*]  
 #872_ [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) [*[code](Codes/Leaf-SimilarTrees.py)*]  
 #876_ [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [*[code](Codes/MiddleOfTheLinkedList.py)*]  
 #884_ [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) [*[code](Codes/UncommonWordsFromTwoSentences.py)*]  
