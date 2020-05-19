@@ -303,6 +303,7 @@
 #872_ [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) [*[code](Codes/Leaf-SimilarTrees.py)*]  
 #876_ [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [*[code](Codes/MiddleOfTheLinkedList.py)*]  
 #884_ [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) [*[code](Codes/UncommonWordsFromTwoSentences.py)*]  
+#896_ [Monotonic Array](https://leetcode.com/problems/monotonic-array/) [*[code](Codes/MonotonicArray.py)*]  
 #897_ [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) [*[code](Codes/IncreasingOrderSearchTree.py)*]  
 #1008_ [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [*[code](Codes/ConstructBinarySearchTreeFromPreorderTraversal.py)*]  
 #1046_ [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) [*[code](Codes/LastStoneWeight.py)*]  
