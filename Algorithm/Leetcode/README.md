@@ -72,6 +72,7 @@
 #101_ [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) [*[code](Codes/SymmetricTree.py)*]  
 #102_ [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) [*[code](Codes/BinaryTreeLevelOrderTraversal.py)*]  
 #104_ [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [*[code](Codes/MaximumDepthOfBinaryTree.py)*]  
+#105_ [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) [*[code](Codes/ConstructBinaryTreeFromPreorderAndInorderTraversal.py)*]  
 #107_ [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) [*[code](Codes/BinaryTreeLevelOrderTraversalII.py)*]  
 #108_ [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) [*[code](Codes/ConvertSortedArrayToBinarySearchTree.py)*]  
 #109_ [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) [*[code](Codes/ConvertSortedListToBinarySearchTree.py)*]  
