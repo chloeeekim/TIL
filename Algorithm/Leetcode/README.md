@@ -143,6 +143,7 @@
 #231_ [Power of Two](https://leetcode.com/problems/power-of-two/) [*[code](Codes/PowerOfTwo.py)*]  
 #234_ [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) [*[code](Codes/PalindromeLinkedList.py)*]  
 #235_ [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) [*[code](Codes/LowestCommonAncestorOfABinarySearchTree.py)*]  
+#236_ [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) [*[code](Codes/LowestCommonAncestorOfABinaryTree.py)*]  
 #238_ [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) [*[code](Codes/ProductOfArrayExceptSelf.py)*]  
 #240_ [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) [*[code](Codes/SearchA2DMatrixII.py)*]  
 #242_ [Valid Anagram](https://leetcode.com/problems/valid-anagram/) [*[code](Codes/ValidAnagram.py)*]  
