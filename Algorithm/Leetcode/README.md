@@ -264,6 +264,7 @@
 #677_ [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) [*[code](Codes/MapSumPairs.py)*]  
 #678_ [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) [*[code](Codes/ValidParenthesisString.py)*]  
 #682_ [Baseball Game](https://leetcode.com/problems/baseball-game/) [*[code](Codes/BaseballGame.py)*]  
+#684_ [Redundant Connection](https://leetcode.com/problems/redundant-connection/) [*[code](Codes/RedundantConnection.py)*]  
 #695_ [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) [*[code](Codes/MaxAreaOfIsland.py)*]  
 #700_ [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) [*[code](Codes/SearchInABinarySearchTree.py)*]  
 #701_ [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) [*[code](Codes/InsertIntoABinarySearchTree.py)*]  
