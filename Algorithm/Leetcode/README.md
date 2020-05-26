@@ -309,6 +309,7 @@
 #868_ [Binary Gap](https://leetcode.com/problems/binary-gap/) [*[code](Codes/BinaryGap.py)*]  
 #872_ [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) [*[code](Codes/Leaf-SimilarTrees.py)*]  
 #876_ [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [*[code](Codes/MiddleOfTheLinkedList.py)*]  
+#883_ [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) [*[code](Codes/ProjectionAreaOf3DShapes.py)*]  
 #884_ [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) [*[code](Codes/UncommonWordsFromTwoSentences.py)*]  
 #889_ [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) [*[code](Codes/ConstructBinaryTreeFromPreorderAndPostorderTraversal.py)*]  
 #896_ [Monotonic Array](https://leetcode.com/problems/monotonic-array/) [*[code](Codes/MonotonicArray.py)*]  
