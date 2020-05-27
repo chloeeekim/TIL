@@ -237,6 +237,7 @@
 #560_ [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) [*[code](Codes/SubarraySumEqualsK.py)*]  
 #561_ [Array Partition I](https://leetcode.com/problems/array-partition-i/) [*[code](Codes/ArrayPartitionI.py)*]  
 #563_ [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) [*[code](Codes/BinaryTreeTilt.py)*]  
+#565_ [Array Nesting](https://leetcode.com/problems/array-nesting/) [*[code](Codes/ArrayNesting.py)*]  
 #566_ [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) [*[code](Codes/ReshapeTheMatrix.py)*]  
 #581_ [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) [*[code](Codes/ShortestUnsortedContinuousSubarray.py)*]  
 #589_ [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) [*[code](Codes/N-aryTreePreorderTraversal.py)*]  
