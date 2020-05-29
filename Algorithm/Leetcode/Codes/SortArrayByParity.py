@@ -25,17 +25,6 @@ in-place로 해결하는 방법
 # Solution 1
 class Solution:
     def sortArrayByParity(self, A: List[int]) -> List[int]:
-        odd, even = [], []
-        for num in A:
-            if num%2 == 0:
-                even.append(num)
-            else:
-                odd.append(num)
-        return even+odd
-
-# Solution 1-1
-class Solution:
-    def sortArrayByParity(self, A: List[int]) -> List[int]:
         odd = [x for x in A if x%2 != 0]
         even = [x for x in A if x%2 == 0]
         return even+odd
