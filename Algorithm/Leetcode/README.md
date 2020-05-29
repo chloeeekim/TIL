@@ -318,6 +318,7 @@
 #896_ [Monotonic Array](https://leetcode.com/problems/monotonic-array/) [*[code](Codes/MonotonicArray.py)*]  
 #897_ [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) [*[code](Codes/IncreasingOrderSearchTree.py)*]  
 #905_ [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) [*[code](Codes/SortArrayByParity.py)*]  
+#922_ [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) [*[code](Codes/SortArrayByParityII.py)*]  
 #1008_ [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [*[code](Codes/ConstructBinarySearchTreeFromPreorderTraversal.py)*]  
 #1046_ [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) [*[code](Codes/LastStoneWeight.py)*]  
 #1143_ [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) [*[code](Codes/LongestCommonSubsequence.py)*]  
