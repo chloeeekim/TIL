@@ -33,6 +33,13 @@ class Solution:
                 odd.append(num)
         return even+odd
 
+# Solution 1-1
+class Solution:
+    def sortArrayByParity(self, A: List[int]) -> List[int]:
+        odd = [x for x in A if x%2 != 0]
+        even = [x for x in A if x%2 == 0]
+        return even+odd
+
 # Solution 2
 class Solution:
     def sortArrayByParity(self, A: List[int]) -> List[int]:
