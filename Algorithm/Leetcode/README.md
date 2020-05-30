@@ -322,6 +322,7 @@
 #977_ [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [*[code](Codes/SquaresOfASortedArray.py)*]  
 #1008_ [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [*[code](Codes/ConstructBinarySearchTreeFromPreorderTraversal.py)*]  
 #1046_ [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) [*[code](Codes/LastStoneWeight.py)*]  
+#1089_ [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) [*[code](Codes/DuplicateZeros.py)*]  
 #1143_ [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) [*[code](Codes/LongestCommonSubsequence.py)*]  
 #1232_ [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [*[code](Codes/CheckIfItIsAStraightLine.py)*]  
 #1295_ [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [*[code](Codes/FindNumbersWithEvenNumberOfDigits.py)*]  
