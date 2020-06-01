@@ -20,8 +20,7 @@ Note:
 
 class Solution:
     def getRow(self, rowIndex: int) -> List[int]:
-        row = [0 for _ in range(rowIndex + 1)]
-        row[0] = 1
+        row = [1] + [0 for _ in range(rowIndex)]
         for i in range(rowIndex+1) :            
             for j in range(i-1, -1, -1) :
                 row[j+1] += row[j]
