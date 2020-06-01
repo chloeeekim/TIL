@@ -327,4 +327,5 @@
 #1143_ [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) [*[code](Codes/LongestCommonSubsequence.py)*]  
 #1232_ [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [*[code](Codes/CheckIfItIsAStraightLine.py)*]  
 #1295_ [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [*[code](Codes/FindNumbersWithEvenNumberOfDigits.py)*]  
+#1299_ [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) [*[code](Codes/ReplaceElementsWithGreatestElementOnRightSide.py)*]  
 #1346_ [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) [*[code](Codes/CheckIfNAndItsDoubleExist.py)*]  
