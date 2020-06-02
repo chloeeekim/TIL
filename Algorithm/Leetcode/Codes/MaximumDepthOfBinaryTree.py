@@ -11,10 +11,15 @@ Example:
 - Output : 3
 
 Note:
+- Solution 1
 stack을 사용하여 depth first search 방식으로 트리 탐색
+- Solution 2
+recursive하게 해결
+한 단계씩 들어갈 때마다 depth 값을 1씩 증가
 
 """
 
+# Solution 1
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, x):
@@ -38,3 +43,22 @@ class Solution:
             if node.left :
                 stack.append([node.left, temp[1] + 1])
         return res
+
+# Solution 2
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution:
+    def maxDepth(self, root: TreeNode) -> int:
+        if not root:
+            return 0
+        depth = 0
+        if root.left:
+            depth = self.maxDepth(root.left)
+        if root.right:
+            depth = max(depth, self.maxDepth(root.right))
+        return depth+1
