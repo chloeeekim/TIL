@@ -13,11 +13,17 @@ Example:
 - Output : 3
 
 Note:
+- Solution 1
 solve() 함수를 생성하여 recursive하게 해결
 level 값을 넘겨주는 방식으로 해당 노드까지의 depth 계산
+- Solution 2
+recursive하게 해결
+한 단계씩 들어갈 때마다 depth 값을 1씩 증가
+binary tree가 아니라 N-ary tree이므로 해당 노드의 children을 모두 확인
 
 """
 
+# Solution 1
 """
 # Definition for a Node.
 class Node:
@@ -37,3 +43,20 @@ class Solution:
                 res = max(res, solve(self, i, level + 1))
             return res
         return solve(self, root, 1)
+
+# Solution 2
+"""
+# Definition for a Node.
+class Node:
+    def __init__(self, val, children):
+        self.val = val
+        self.children = children
+"""
+class Solution:
+    def maxDepth(self, root: 'Node') -> int:
+        if not root :
+            return 0
+        depth = 0
+        for child in root.children:
+            depth = max(depth, self.maxDepth(child))
+        return depth+1
