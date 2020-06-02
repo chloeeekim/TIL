@@ -10,12 +10,18 @@ Example:
 - Output : [[15,7],[9,20],[3]]
 
 Note:
+- Solution 1
 queue를 사용하여 해결
 해당 노드의 레벨을 확인하기 위하여 queue에서 [node, level]의 형태로 관리
 root에서부터 구한 다음 결과를 reversed하여 리턴
+- Solution 2
+queue를 사용하여 해결
+각 레벨별로 tqueue와 tnodes 리스트를 두어 한 레벨이 끝날 때마다 queue와 결과 리스트를 갱신하는 방식
+결과 리스트를 갱신할 때 0번째 인덱스에 해당 레벨을 순회한 결과를 insert
 
 """
 
+# Solution 1
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, x):
@@ -41,3 +47,29 @@ class Solution:
             if node.right :
                 queue.append([node.right, level + 1])
         return reversed(res)
+
+# Solution 2
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution:
+    def levelOrderBottom(self, root: TreeNode) -> List[List[int]]:
+        if not root :
+            return []
+        res = []
+        queue, tqueue, tnodes = [root], [], []
+        while queue :
+            node = queue.pop(0)
+            tnodes.append(node.val)
+            if node.left:
+                tqueue.append(node.left)
+            if node.right:
+                tqueue.append(node.right)
+            if not queue:
+                res.insert(0, tnodes)
+                queue, tqueue, tnodes = tqueue, [], []
+        return res
