@@ -9,12 +9,16 @@ Example:
 - Output : [[1,2],[1,3],[1,4],[2,3],[2,4],[3,4]]
 
 Note:
+- Solution 1
 solve() 함수를 생성하여 recursive하게 해결
 중복되는 정수가 없으므로 함수가 호출될 때 생기는 모든 temp는 중복되지 않음을 보장
 [1,2]와 [2,1]은 중복이므로, 이미 사용한 숫자의 앞부분(~i)은 고려할 필요가 없다
+- Solution 2
+itertools의 combinations 함수를 이용
 
 """
 
+# Solution 1
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
         res = []
@@ -26,3 +30,10 @@ class Solution:
                 solve(self, temp + [i], i+1, count + 1)
         solve(self, [], 1, 0)
         return res
+
+# Solution 2
+from itertools import combinations
+
+class Solution:
+    def combine(self, n: int, k: int) -> List[List[int]]:
+        return combinations([i for i in range(1, n+1)], k)
