@@ -9,13 +9,17 @@ Example:
 - Output : [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]]
 
 Note:
+- Solution 1
 rec() 함수를 생성하여 recursive하게 해결
 앞에서 만들어진 리스트(temp)와 남은 리스트(remain)를 관리
 얕은 복사의 문제로 temp.append(num) 대신 temp + [num]을,
 rem = remain.remove(num)이나 del num[i] 대신 remain[:i] + remain[i+1:]을 사용
+- Solution 2
+itertools의 permutations 함수를 사용
 
 """
 
+# Solution 1
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         res = []
@@ -28,3 +32,10 @@ class Solution:
                 rec(self, temp + [num], rem)
         rec(self, [], nums)
         return res
+
+# Solution 2
+from itertools import permutations
+
+class Solution:
+    def permute(self, nums: List[int]) -> List[List[int]]:
+        return permutations(nums)
