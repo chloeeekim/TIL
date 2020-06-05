@@ -9,13 +9,18 @@ Example:
 - Output : [[1,1,2],[1,2,1],[2,1,1]]
 
 Note:
+- Solution 1
 rec() 함수를 생성하여 recursive하게 해결
 앞에서 만들어진 리스트(temp)와 남은 리스트(remain)를 관리
 Permutation 문제에서 사용한 함수를 변경
 추가) 다른 최적화 방법 찾기. 현재 알고리즘은 속도가 너무 느리다는 단점
+- Solution 2
+itertools의 permutations 함수를 사용
+set으로 중복을 제거한 후 list의 형태로 변경하여 리턴
 
 """
 
+# Solution 1
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
         res = []
@@ -32,3 +37,10 @@ class Solution:
                     seen = num
         rec(self, [], nums)
         return res
+
+# Solution 2
+from itertools import permutations
+
+class Solution:
+    def permuteUnique(self, nums: List[int]) -> List[List[int]]:
+        return list(set(permutations(nums)))
