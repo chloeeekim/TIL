@@ -228,6 +228,7 @@
 #520_ [Detect Capital](https://leetcode.com/problems/detect-capital/) [*[code](Codes/DetectCapital.py)*]  
 #521_ [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) [*[code](Codes/LongestUncommonSubsequenceI.py)*]  
 #525_ [Contiguous Array](https://leetcode.com/problems/contiguous-array/) [*[code](Codes/ContiguousArray.py)*]  
+#528_ [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) [*[code](Codes/RandomPickWithWeight.py)*]  
 #530_ [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) [*[code](Codes/MinimumAbsoluteDifferenceInBST.py)*]  
 #540_ [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) [*[code](Codes/SingleElementInASortedArray.py)*]  
 #541_ [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) [*[code](Codes/ReverseStringII.py)*]  
