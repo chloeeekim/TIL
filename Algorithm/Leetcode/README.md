@@ -191,6 +191,7 @@
 #392_ [Is Subsequence](https://leetcode.com/problems/is-subsequence/) [*[code](Codes/IsSubsequence.py)*]  
 #404_ [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) [*[code](Codes/SumOfLeftLeaves.py)*]  
 #405_ [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) [*[code](Codes/ConvertANumberToHexadecimal.py)*]  
+#406_ [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) [*[code](Codes/QueueReconstructionByHeight.py)*]  
 #409_ [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) [*[code](Codes/LongestPalindrome.py)*]  
 #412_ [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) [*[code](Codes/FizzBuzz.py)*]  
 #414_ [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) [*[code](Codes/ThirdMaximumNumber.py)*]  
