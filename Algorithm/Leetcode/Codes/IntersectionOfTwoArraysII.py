@@ -14,12 +14,17 @@ Example:
 - Output : [9,4]
 
 Note:
+- Solution 1
 중복을 허용하지 않는 set으로 변경
 두 set의 교집합을 찾는 방법 : set1 & set2 / set1.intersection(set2)
 교집합에 포함된 원소들의 갯수를 확인하여 결과 list에 append
+- Solution 2
+Counter를 이용하여 두 리스트에 포함된 원소의 개수를 카운트
+& 연산을 이용하여 중복을 찾는 방식
 
 """
 
+# Solution 1
 class Solution:
     def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
         snums1, snums2 = set(nums1), set(nums2)
@@ -28,4 +33,15 @@ class Solution:
         for i in interlist :
             r = min(nums1.count(i), nums2.count(i))
             res += [i] * r
+        return res
+
+# Solution 2
+from collections import Counter
+
+class Solution:
+    def intersect(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        cnums1, cnums2 = Counter(nums1), Counter(nums2)
+        res = []
+        for num, count in (cnums1&cnums2).items():
+            res += [num]*count
         return res
