@@ -17,5 +17,6 @@ print stdout.read()
 - 매 명령어마다 새로운 세션이 부여되므로 연속적인 작업 진행이 불가능
 
 ### invoke_shell()
+
 - 세션을 유지한 상태로 명령어 실행이 가능
 - channel을 가져오고 channel을 계속 유지해야 한다
