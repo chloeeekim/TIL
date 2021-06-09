@@ -123,6 +123,7 @@
 #172_ [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) [*[code](Codes/FactorialTrailingZeroes.py)*]  
 #173_ [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) [*[code](Codes/BinarySearchTreeIterator.py)*]  
 #189_ [Rotate Array](https://leetcode.com/problems/rotate-array/) [*[code](Codes/RotateArray.py)*]  
+#190_ [Reverse Bits](https://leetcode.com/problems/reverse-bits/) [*[code](Codes/ReverseBits.py)*]  
 #198_ [House Robber](https://leetcode.com/problems/house-robber/) [*[code](Codes/HouseRobber.py)*]  
 #199_ [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) [*[code](Codes/BinaryTreeRightSideView.py)*]  
 #200_ [Number of Islands](https://leetcode.com/problems/number-of-islands/) [*[code](Codes/NumberOfIslands.py)*]  
