@@ -124,6 +124,7 @@
 #173_ [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) [*[code](Codes/BinarySearchTreeIterator.py)*]  
 #189_ [Rotate Array](https://leetcode.com/problems/rotate-array/) [*[code](Codes/RotateArray.py)*]  
 #190_ [Reverse Bits](https://leetcode.com/problems/reverse-bits/) [*[code](Codes/ReverseBits.py)*]  
+#191_ [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) [*[code](Codes/NumberOf1Bits.py)*]  
 #198_ [House Robber](https://leetcode.com/problems/house-robber/) [*[code](Codes/HouseRobber.py)*]  
 #199_ [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) [*[code](Codes/BinaryTreeRightSideView.py)*]  
 #200_ [Number of Islands](https://leetcode.com/problems/number-of-islands/) [*[code](Codes/NumberOfIslands.py)*]  
