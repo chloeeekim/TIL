@@ -161,6 +161,7 @@
 #278_ [First Bad Version](https://leetcode.com/problems/first-bad-version/) [*[code](Codes/FirstBadVersion.py)*]  
 #283_ [Move Zeroes](https://leetcode.com/problems/move-zeroes/) [*[code](Codes/MoveZeroes.py)*]  
 #287_ [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [*[code](Codes/FindTheDuplicateNumber.py)*]  
+#289_ [Game of Life](https://leetcode.com/problems/game-of-life/) [*[code](Codes/GameOfLife.py)*]  
 #290_ [Word Pattern](https://leetcode.com/problems/word-pattern/) [*[code](Codes/WordPattern.py)*]  
 #292_ [Nim Game](https://leetcode.com/problems/nim-game/) [*[code](Codes/NimGame.py)*]  
 #299_ [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) [*[code](Codes/BullsAndCows.py)*]  
