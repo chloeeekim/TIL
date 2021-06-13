@@ -6,7 +6,7 @@
 
 ```
 console.log("Plus: " + (a + b) " and Twice: " + "2 * (a + b)) + ".");
-console.log(`Plus: %{a+b} and Twice: ${2*(a+b)}.`);
+console.log(`Plus: ${a+b} and Twice: ${2*(a+b)}.`);
 ```
 - 줄바꿈 기호를 사용하지 않고 코드 상에서 줄을 바꾸어도 동일하게 동작한다
 ```
