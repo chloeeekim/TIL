@@ -57,6 +57,7 @@
 #72_ [Edit Distance](https://leetcode.com/problems/edit-distance/) [*[code](Codes/EditDistance.py)*]  
 #73_ [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) [*[code](Codes/SetMatrixZeroes.py)*]  
 #74_ [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) [*[code](Codes/SearchA2DMatrix.py)*]  
+#75_ [Sort Colors](https://leetcode.com/problems/sort-colors/) [*[code](Codes/SortColors.py)*]  
 #77_ [Combinations](https://leetcode.com/problems/combinations/) [*[code](Codes/Combinations.py)*]  
 #78_ [Subsets](https://leetcode.com/problems/subsets/) [*[code](Codes/Subsets.py)*]  
 #79_ [Word Search](https://leetcode.com/problems/word-search/) [*[code](Codes/WordSearch.py)*]  
