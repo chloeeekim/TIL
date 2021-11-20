@@ -285,6 +285,7 @@
 #687_ [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) [*[code](Codes/LongestUnivaluePath.py)*]  
 #692_ [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) [*[code](Codes/TopKFrequentWords.py)*]  
 #695_ [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) [*[code](Codes/MaxAreaOfIsland.py)*]  
+#696_ [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) [*[code](Codes/CountBinarySubstrings.py)*]  
 #700_ [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) [*[code](Codes/SearchInABinarySearchTree.py)*]  
 #701_ [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) [*[code](Codes/InsertIntoABinarySearchTree.py)*]  
 #704_ [Binary Search](https://leetcode.com/problems/binary-search/) [*[code](Codes/BinarySearch.py)*]  
