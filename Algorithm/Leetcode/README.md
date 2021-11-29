@@ -332,6 +332,7 @@
 #876_ [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) [*[code](Codes/MiddleOfTheLinkedList.py)*]  
 #883_ [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) [*[code](Codes/ProjectionAreaOf3DShapes.py)*]  
 #884_ [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) [*[code](Codes/UncommonWordsFromTwoSentences.py)*]  
+#888_ [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) [*[code](Codes/FairCandySwap.py)*]  
 #889_ [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) [*[code](Codes/ConstructBinaryTreeFromPreorderAndPostorderTraversal.py)*]  
 #896_ [Monotonic Array](https://leetcode.com/problems/monotonic-array/) [*[code](Codes/MonotonicArray.py)*]  
 #897_ [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) [*[code](Codes/IncreasingOrderSearchTree.py)*]  
