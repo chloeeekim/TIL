@@ -339,6 +339,7 @@
 #884_ [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) [*[code](Codes/UncommonWordsFromTwoSentences.py)*]  
 #888_ [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) [*[code](Codes/FairCandySwap.py)*]  
 #889_ [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) [*[code](Codes/ConstructBinaryTreeFromPreorderAndPostorderTraversal.py)*]  
+#890_ [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) [*[code](Codes/FindAndReplacePattern.py)*]  
 #896_ [Monotonic Array](https://leetcode.com/problems/monotonic-array/) [*[code](Codes/MonotonicArray.py)*]  
 #897_ [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) [*[code](Codes/IncreasingOrderSearchTree.py)*]  
 #905_ [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) [*[code](Codes/SortArrayByParity.py)*]  
