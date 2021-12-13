@@ -43,6 +43,7 @@
 #53_ [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [*[code](Codes/MaximumSubarray.py)*]  
 #55_ [Jump Game](https://leetcode.com/problems/jump-game/) [*[code](Codes/JumpGame.py)*]  
 #56_ [Merge Intervals](https://leetcode.com/problems/merge-intervals/) [*[code](Codes/MergeIntervals.py)*]  
+#57_ [Insert Interval](https://leetcode.com/problems/insert-interval/) [*[code](Codes/InsertInterval.py)*]  
 #58_ [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) [*[code](Codes/LengthOfLastWord.py)*]  
 #60_ [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) [*[code](Codes/PermutationSequence.py)*]  
 #61_ [Rotate List](https://leetcode.com/problems/rotate-list/) [*[code](Codes/RotateList.py)*]  
