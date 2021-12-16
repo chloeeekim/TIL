@@ -144,6 +144,7 @@
 #219_ [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) [*[code](Codes/ContainsDuplicateII.py)*]  
 #220_ [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) [*[code](Codes/ContainsDuplicateIII.py)*]  
 #221_ [Maximal Square](https://leetcode.com/problems/maximal-square/) [*[code](Codes/MaximalSquare.py)*]  
+#222_ [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) [*[code](Codes/CountCompleteTreeNodes.py)*]  
 #226_ [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) [*[code](Codes/InvertBinaryTree.py)*]  
 #228_ [Summary Ranges](https://leetcode.com/problems/summary-ranges/) [*[code](Codes/SummaryRanges.py)*]  
 #229_ [Majority Element II](https://leetcode.com/problems/majority-element-ii/) [*[code](Codes/MajorityElementII.py)*]  
