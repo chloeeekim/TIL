@@ -356,6 +356,7 @@
 #941_ [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) [*[code](Codes/ValidMountainArray.py)*]  
 #961_ [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) [*[code](Codes/N-RepeatedElementInSize2NArray.py)*]  
 #977_ [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [*[code](Codes/SquaresOfASortedArray.py)*]  
+#989_ [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) [*[code](Codes/AddToArray-FormOfInteger.py)*]  
 #1008_ [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [*[code](Codes/ConstructBinarySearchTreeFromPreorderTraversal.py)*]  
 #1029_ [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) [*[code](Codes/TwoCityScheduling.py)*]  
 #1046_ [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) [*[code](Codes/LastStoneWeight.py)*]  
