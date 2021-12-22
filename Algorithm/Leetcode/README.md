@@ -354,6 +354,7 @@
 #933_ [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) [*[code](Codes/NumberOfRecentCalls.py)*]  
 #938_ [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) [*[code](Codes/RangeSumOfBST.py)*]  
 #941_ [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) [*[code](Codes/ValidMountainArray.py)*]  
+#942_ [DI String Match](https://leetcode.com/problems/di-string-match/) [*[code](Codes/DIStringMatch.py)*]  
 #961_ [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) [*[code](Codes/N-RepeatedElementInSize2NArray.py)*]  
 #977_ [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [*[code](Codes/SquaresOfASortedArray.py)*]  
 #989_ [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) [*[code](Codes/AddToArray-FormOfInteger.py)*]  
