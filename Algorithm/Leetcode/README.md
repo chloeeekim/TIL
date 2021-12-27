@@ -4,6 +4,7 @@
 #2_ [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) [*[code](Codes/AddTwoNumbers.py)*]  
 #3_ [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [*[code](Codes/LongestSubstringWithoutRepeatingCharacters.py)*]  
 #5_ [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) [*[code](Codes/LongestPalindromicSubstring.py)*]  
+#6_ [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) [*[code](Codes/ZigzagConversion.py)*]  
 #7_ [Reverse Integer](https://leetcode.com/problems/reverse-integer/) [*[code](Codes/ReverseInteger.py)*]  
 #8_ [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) [*[code](StringToIntegerAtoi.py)*]  
 #9_ [Palindrome Number](https://leetcode.com/problems/palindrome-number/) [*[code](Codes/PalindromeNumber.py)*]  
