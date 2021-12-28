@@ -357,6 +357,7 @@
 #938_ [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) [*[code](Codes/RangeSumOfBST.py)*]  
 #941_ [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) [*[code](Codes/ValidMountainArray.py)*]  
 #942_ [DI String Match](https://leetcode.com/problems/di-string-match/) [*[code](Codes/DIStringMatch.py)*]  
+#944_ [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) [*[code](Codes/DeleteColumnsToMakeSorted.py)*]  
 #961_ [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) [*[code](Codes/N-RepeatedElementInSize2NArray.py)*]  
 #973_ [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) [*[code](Codes/KClosestPointsToOrigin.py)*]  
 #977_ [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [*[code](Codes/SquaresOfASortedArray.py)*]  
