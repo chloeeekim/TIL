@@ -104,6 +104,7 @@
 #134_ [Gas Station](https://leetcode.com/problems/gas-station/) [*[code](Codes/GasStation.py)*]  
 #136_ [Single Number](https://leetcode.com/problems/single-number/) [*[code](Codes/SingleNumber.py)*]  
 #137_ [Single Number II](https://leetcode.com/problems/single-number-ii/) [*[code](Codes/SingleNumberII.py)*]  
+#139_ [Word Break](https://leetcode.com/problems/word-break/) [*[code](Codes/WordBreak.py)*]  
 #141_ [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) [*[code](Codes/LinkedListCycle.py)*]  
 #142_ [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) [*[code](Codes/LinkedListCycleII.py)*]  
 #143_ [Reorder List](https://leetcode.com/problems/reorder-list/) [*[code](Codes/ReorderList.py)*]  
