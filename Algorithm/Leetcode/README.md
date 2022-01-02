@@ -167,6 +167,7 @@
 #264_ [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) [*[code](Codes/UglyNumberII.py)*]  
 #268_ [Missing Number](https://leetcode.com/problems/missing-number/) [*[code](Codes/MissingNumber.py)*]  
 #278_ [First Bad Version](https://leetcode.com/problems/first-bad-version/) [*[code](Codes/FirstBadVersion.py)*]  
+#279_ [Perfect Sqaures](https://leetcode.com/problems/perfect-squares/) [*[code](Codes/PerfectSquares.py)*]  
 #283_ [Move Zeroes](https://leetcode.com/problems/move-zeroes/) [*[code](Codes/MoveZeroes.py)*]  
 #287_ [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) [*[code](Codes/FindTheDuplicateNumber.py)*]  
 #289_ [Game of Life](https://leetcode.com/problems/game-of-life/) [*[code](Codes/GameOfLife.py)*]  
