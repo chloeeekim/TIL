@@ -365,6 +365,7 @@
 #973_ [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) [*[code](Codes/KClosestPointsToOrigin.py)*]  
 #977_ [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [*[code](Codes/SquaresOfASortedArray.py)*]  
 #989_ [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) [*[code](Codes/AddToArray-FormOfInteger.py)*]  
+#997_ [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) [*[code](Codes/FindTheTownJudge.py)*]  
 #1008_ [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [*[code](Codes/ConstructBinarySearchTreeFromPreorderTraversal.py)*]  
 #1029_ [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) [*[code](Codes/TwoCityScheduling.py)*]  
 #1046_ [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) [*[code](Codes/LastStoneWeight.py)*]  
