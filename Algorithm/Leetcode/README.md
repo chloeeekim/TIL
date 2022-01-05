@@ -373,6 +373,7 @@
 #1046_ [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) [*[code](Codes/LastStoneWeight.py)*]  
 #1051_ [Height Checker](https://leetcode.com/problems/height-checker/) [*[code](Codes/HeightChecker.py)*]  
 #1089_ [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) [*[code](Codes/DuplicateZeros.py)*]  
+#1137_ [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) [*[code](Codes/N-thTribonacciNumber.py)*]  
 #1143_ [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) [*[code](Codes/LongestCommonSubsequence.py)*]  
 #1232_ [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [*[code](Codes/CheckIfItIsAStraightLine.py)*]  
 #1295_ [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) [*[code](Codes/FindNumbersWithEvenNumberOfDigits.py)*]  
