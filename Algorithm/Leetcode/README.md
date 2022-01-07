@@ -228,6 +228,7 @@
 #459_ [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) [*[code](Codes/RepeatedSubstringPattern.py)*]  
 #461_ [Hamming Distance](https://leetcode.com/problems/hamming-distance/) [*[code](Codes/HammingDistance.py)*]  
 #463_ [Island Perimeter](https://leetcode.com/problems/island-perimeter/) [*[code](Codes/IslandPerimeter.py)*]  
+#472_ [Concatenated Words](https://leetcode.com/problems/concatenated-words/) [*[code](Codes/ConcatenatedWords.py)*]  
 #476_ [Number Complement](https://leetcode.com/problems/number-complement/) [*[code](Codes/NumberComplement.py)*]  
 #481_ [Magical String](https://leetcode.com/problems/magical-string/) [*[code](Codes/MagicalString.py)*]  
 #482_ [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) [*[code](Codes/LicenseKeyFormatting.py)*]  
