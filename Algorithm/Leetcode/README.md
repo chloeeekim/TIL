@@ -247,6 +247,7 @@
 #509_ [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) [*[code](Codes/FibonacciNumber.py)*]  
 #513_ [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) [*[code](Codes/FindBottomLeftTreeValue.py)*]  
 #515_ [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) [*[code](Codes/FindLargestValueInEachTreeRow.py)*]  
+#516_ [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) [*[code](Codes/LongestPalindromicSubsequence.py)*]  
 #518_ [Coin Change 2](https://leetcode.com/problems/coin-change-2/) [*[code](Codes/CoinChange2.py)*]  
 #520_ [Detect Capital](https://leetcode.com/problems/detect-capital/) [*[code](Codes/DetectCapital.py)*]  
 #521_ [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) [*[code](Codes/LongestUncommonSubsequenceI.py)*]  
