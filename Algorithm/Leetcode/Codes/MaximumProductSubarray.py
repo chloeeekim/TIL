@@ -7,7 +7,7 @@
 - maximum product는 32-bit 정수임이 보장된다
 
 Example:
-- Input : =nums = [2,3,-2,4]
+- Input : nums = [2,3,-2,4]
 - Output : 6
 - [2, 3]
 
