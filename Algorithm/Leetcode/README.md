@@ -34,6 +34,7 @@
 #41_ [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) [*[code](Codes/FirstMissingPositive.py)*]  
 #42_ [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) [*[code](Codes/TrappingRainWater.py)*]  
 #44_ [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) [*[code](Codes/WildcardMatching.py)*]  
+#45_ [Jump Game II](https://leetcode.com/problems/jump-game-ii/) [*[code](Codes/JumpGameII.py)*]  
 #46_ [Permutations](https://leetcode.com/problems/permutations/) [*[code](Codes/Permutations.py)*]  
 #47_ [Permutations II](https://leetcode.com/problems/permutations-ii/) [*[code](Codes/PermutationsII.py)*]  
 #48_ [Rotate Image](https://leetcode.com/problems/rotate-image/) [*[code](Codes/RotateImage.py)*]  
