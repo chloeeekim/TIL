@@ -372,6 +372,7 @@
 #961_ [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) [*[code](Codes/N-RepeatedElementInSize2NArray.py)*]  
 #965_ [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) [*[code](Codes/UnivaluedBinaryTree.py)*]  
 #973_ [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) [*[code](Codes/KClosestPointsToOrigin.py)*]  
+#976_ [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) [*[code](Codes/LargestPerimeterTriangle.py)*]  
 #977_ [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [*[code](Codes/SquaresOfASortedArray.py)*]  
 #989_ [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) [*[code](Codes/AddToArray-FormOfInteger.py)*]  
 #997_ [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) [*[code](Codes/FindTheTownJudge.py)*]  
