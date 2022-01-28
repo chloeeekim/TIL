@@ -206,6 +206,7 @@
 #376_ [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) [*[code](Codes/WiggleSubsequence.py)*]  
 #377_ [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) [*[code](Codes/CombinationSumIV.py)*]  
 #380_ [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) [*[code](Codes/InsertDeleteGetRandomO(1).py)*]  
+#382_ [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) [*[code](Codes/LinkedListRandomNode.py)*]  
 #383_ [Ransom Note](https://leetcode.com/problems/ransom-note/) [*[code](Codes/RansomNote.py)*]  
 #386_ [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) [*[code](Codes/LexicographicalNumbers.py)*]  
 #387_ [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) [*[code](Codes/FirstUniqueCharacterInAString.py)*]  
