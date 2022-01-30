@@ -377,6 +377,7 @@
 #977_ [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) [*[code](Codes/SquaresOfASortedArray.py)*]  
 #989_ [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) [*[code](Codes/AddToArray-FormOfInteger.py)*]  
 #997_ [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) [*[code](Codes/FindTheTownJudge.py)*]  
+#1005_ [Maximize Sum of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) [*[code](Codes/MaximizeSumOfArrayAfterKNegations.py)*]  
 #1008_ [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) [*[code](Codes/ConstructBinarySearchTreeFromPreorderTraversal.py)*]  
 #1009_ [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) [*[code](Codes/ComplementOfBase10Integer.py)*]  
 #1029_ [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) [*[code](Codes/TwoCityScheduling.py)*]  
