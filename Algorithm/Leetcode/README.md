@@ -396,4 +396,5 @@
 #1480_ [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) [*[code](Codes/RunningSumOf1dArray.py)*]  
 #1572_ [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) [*[code](Codes/MatrixDiagonalSum.py)*]  
 #1636_ [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) [*[code](Codes/SortArrayByIncreasingFrequency.py)*]  
+#1672_ [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) [*[code](Codes/RichestCustomerWealth.py)*]  
 #1913_ [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) [*[code](Codes/MaximumProductDifferenceBetweenTwoPairs.py)*]  
