@@ -305,6 +305,7 @@
 #684_ [Redundant Connection](https://leetcode.com/problems/redundant-connection/) [*[code](Codes/RedundantConnection.py)*]  
 #687_ [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) [*[code](Codes/LongestUnivaluePath.py)*]  
 #692_ [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) [*[code](Codes/TopKFrequentWords.py)*]  
+#693_ [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) [*[code](Codes/BinaryNumberWithAlternatingBits.py)*]  
 #695_ [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) [*[code](Codes/MaxAreaOfIsland.py)*]  
 #696_ [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) [*[code](Codes/CountBinarySubstrings.py)*]  
 #697_ [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) [*[code](Codes/DegreeOfAnArray.py)*]  
