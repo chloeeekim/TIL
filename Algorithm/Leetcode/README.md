@@ -363,6 +363,7 @@
 #897_ [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) [*[code](Codes/IncreasingOrderSearchTree.py)*]  
 #905_ [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) [*[code](Codes/SortArrayByParity.py)*]  
 #908_ [Smallest Range I](https://leetcode.com/problems/smallest-range-i/) [*[code](Codes/SmallestRangeI.py)*]  
+#914_ [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) [*[code](Codes/XOfAKindInADeckOfCards.py)*]  
 #917_ [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) [*[code](Codes/ReverseOnlyLetters.py)*]  
 #922_ [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) [*[code](Codes/SortArrayByParityII.py)*]  
 #929_ [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) [*[code](Codes/UniqueEmailAddresses.py)*]  
