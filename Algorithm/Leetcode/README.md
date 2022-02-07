@@ -386,6 +386,7 @@
 #1009_ [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) [*[code](Codes/ComplementOfBase10Integer.py)*]  
 #1022_ [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) [*[code](Codes/SumOfRootToLeafBinaryNumbers.py)*]  
 #1029_ [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) [*[code](Codes/TwoCityScheduling.py)*]  
+#1037_ [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) [*[code](Codes/ValidBoomerang.py)*]  
 #1046_ [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) [*[code](Codes/LastStoneWeight.py)*]  
 #1051_ [Height Checker](https://leetcode.com/problems/height-checker/) [*[code](Codes/HeightChecker.py)*]  
 #1089_ [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) [*[code](Codes/DuplicateZeros.py)*]  
