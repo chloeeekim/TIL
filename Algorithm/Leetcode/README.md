@@ -391,6 +391,7 @@
 #1051_ [Height Checker](https://leetcode.com/problems/height-checker/) [*[code](Codes/HeightChecker.py)*]  
 #1089_ [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) [*[code](Codes/DuplicateZeros.py)*]  
 #1094_ [Car Pooling](https://leetcode.com/problems/car-pooling/) [*[code](Codes/CarPooling.py)*]  
+#1108_ [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) [*[code](Codes/DefangingAnIPAddress.py)*]  
 #1137_ [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) [*[code](Codes/N-thTribonacciNumber.py)*]  
 #1143_ [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) [*[code](Codes/LongestCommonSubsequence.py)*]  
 #1232_ [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) [*[code](Codes/CheckIfItIsAStraightLine.py)*]  
