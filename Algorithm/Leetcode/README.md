@@ -388,6 +388,7 @@
 #1029_ [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) [*[code](Codes/TwoCityScheduling.py)*]  
 #1037_ [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) [*[code](Codes/ValidBoomerang.py)*]  
 #1046_ [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) [*[code](Codes/LastStoneWeight.py)*]  
+#1047_ [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) [*[code](Codes/RemoveAllAdjacentDuplicatesInString.py)*]  
 #1051_ [Height Checker](https://leetcode.com/problems/height-checker/) [*[code](Codes/HeightChecker.py)*]  
 #1089_ [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) [*[code](Codes/DuplicateZeros.py)*]  
 #1094_ [Car Pooling](https://leetcode.com/problems/car-pooling/) [*[code](Codes/CarPooling.py)*]  
