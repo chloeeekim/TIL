@@ -143,6 +143,7 @@
 #206_ [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) [*[code](Codes/ReverseLinkedList.py)*]  
 #208_ [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) [*[code](Codes/ImplementTrie(PrefixTree).py)*]  
 #213_ [House Robber II](https://leetcode.com/problems/house-robber-ii/) [*[code](Codes/HouseRobber.py)*]  
+#214_ [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) [*[code](Codes/ShortestPalindrome.py)*]  
 #215_ [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) [*[code](Codes/KthLargestElementInAnArray.py)*]  
 #216_ [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) [*[code](Codes/CombinationSumIII.py)*]  
 #217_ [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) [*[code](Codes/ContainsDuplicate.py)*]  
