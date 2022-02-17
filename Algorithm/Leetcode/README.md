@@ -215,6 +215,7 @@
 #389_ [Find the Difference](https://leetcode.com/problems/find-the-difference/) [*[code](Codes/FindTheDifference.py)*]  
 #392_ [Is Subsequence](https://leetcode.com/problems/is-subsequence/) [*[code](Codes/IsSubsequence.py)*]  
 #394_ [Decode String](https://leetcode.com/problems/decode-string/) [*[code](Codes/DecodeString.py)*]  
+#401_ [Binary Watch](https://leetcode.com/problems/binary-watch/) [*[code](Codes/BinaryWatch.py)*]  
 #404_ [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) [*[code](Codes/SumOfLeftLeaves.py)*]  
 #405_ [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) [*[code](Codes/ConvertANumberToHexadecimal.py)*]  
 #406_ [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) [*[code](Codes/QueueReconstructionByHeight.py)*]  
