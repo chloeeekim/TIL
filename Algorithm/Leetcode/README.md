@@ -229,6 +229,7 @@
 #429_ [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) [*[code](Codes/N-aryTreeLevelOrderTraversal.py)*]  
 #434_ [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) [*[code](Codes/NumberOfSegmentsInAString.py)*]  
 #435_ [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) [*[code](Codes/Non-overlappingIntervals.py)*]  
+#436_ [Find Right Interval](https://leetcode.com/problems/find-right-interval/) [*[code](Codes/FindRightInterval.py)*]  
 #438_ [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) [*[code](Codes/FindAllAnagramsInAString.py)*]  
 #441_ [Arranging Coins](https://leetcode.com/problems/arranging-coins/) [*[code](Codes/ArrangingCoins.py)*]  
 #442_ [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) [*[code](Codes/FindAllDuplicatesInAnArray.py)*]  
