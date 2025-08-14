@@ -10,6 +10,7 @@
 - [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) [*[code](Codes/388351.py)*]
 - [택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478) [*[code](Codes/389478.py)*]
 - [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) [*[code](Codes/258712.py)*]
+- [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) [*[code](Codes/150370.py)*]
 
 ### Lv. 2
 - [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[code](Codes/340212.py)*]
