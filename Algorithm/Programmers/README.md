@@ -10,3 +10,6 @@
 ### Lv. 2
 - [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[code](Codes/340212.py)*]
 - [PCCP 기출문제 3번 / 충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) [*[code](Codes/340211.py)*]
+
+### Lv. 3
+- [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
