@@ -20,6 +20,7 @@
 - [지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353) [*[code](Codes/388353.py)*]
 - [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) [*[code](Codes/389479.py)*]
 - [완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) [*[code](Codes/389480.py)*]
+- [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) [*[code](Codes/258711.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
