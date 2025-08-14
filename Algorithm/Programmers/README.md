@@ -8,3 +8,4 @@
 - [PCCP 기출문제 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) [*[code](Codes/340213.py)*]
 
 ### Lv. 2
+- [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[code](Codes/340212.py)*]
