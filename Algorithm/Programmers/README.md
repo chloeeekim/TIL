@@ -17,6 +17,7 @@
 - [PCCP 기출문제 3번 / 아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135) [*[code](Codes/250135.py)*]
 - [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352) [*[code](Codes/388352.py)*]
 - [지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353) [*[code](Codes/388353.py)*]
+- [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) [*[code](Codes/389479.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
