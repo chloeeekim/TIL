@@ -38,6 +38,7 @@
 - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) [*[code](Codes/72412.py)*]
 - [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) [*[code](Codes/60057.py)*]
 - [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) [*[code](Codes/60058.py)*]
+- [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) [*[code](Codes/42888.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
