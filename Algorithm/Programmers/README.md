@@ -35,6 +35,7 @@
 - [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) [*[code](Codes/77485.py)*]
 - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) [*[code](Codes/72411.py)*]
 - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) [*[code](Codes/72412.py)*]
+- [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) [*[code](Codes/60057.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
