@@ -13,6 +13,7 @@
 - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) [*[code](Codes/150370.py)*]
 - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) [*[code](Codes/118666.py)*]
 - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) [*[code](Codes/92334.py)*]
+- [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) [*[code](Codes/77484.py)*]
 
 ### Lv. 2
 - [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[code](Codes/340212.py)*]
