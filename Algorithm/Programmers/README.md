@@ -27,6 +27,7 @@
 - [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) [*[code](Codes/150369.py)*]
 - [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) [*[code](Codes/150368.py)*]
 - [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) [*[code](Codes/118667.py)*]
+- [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) [*[code](Codes/92335.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
