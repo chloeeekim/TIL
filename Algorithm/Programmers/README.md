@@ -53,3 +53,4 @@
 - [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366) [*[code](Codes/150366.py)*]
 - [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) [*[code](Codes/150365.py)*]
 - [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) [*[code](Codes/118668.py)*]
+- [홀짝트리](https://school.programmers.co.kr/learn/courses/30/lessons/388354) [*[code](Codes/388354.py)*]
