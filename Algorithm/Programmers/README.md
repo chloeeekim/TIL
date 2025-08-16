@@ -16,6 +16,7 @@
 - [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) [*[code](Codes/77484.py)*]
 - [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) [*[code](Codes/72410.py)*]
 - [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) [*[code](Codes/42889.py)*]
+- [1차 / 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) [*[code](Codes/17682.py)*]
 
 ### Lv. 2
 - [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[code](Codes/340212.py)*]
