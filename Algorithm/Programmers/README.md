@@ -42,6 +42,7 @@
 - [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) [*[code](Codes/60058.py)*]
 - [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) [*[code](Codes/42888.py)*]
 - [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) [*[code](Codes/42890.py)*]
+- [1차 / 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) [*[code](Codes/17680.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
