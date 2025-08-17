@@ -55,3 +55,4 @@
 - [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) [*[code](Codes/118668.py)*]
 - [홀짝트리](https://school.programmers.co.kr/learn/courses/30/lessons/388354) [*[code](Codes/388354.py)*]
 - [봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481) [*[code](Codes/389481.py)*]
+- [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709) [*[code](Codes/258709.py)*]
