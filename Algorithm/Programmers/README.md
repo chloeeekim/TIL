@@ -58,6 +58,7 @@
 - [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709) [*[code](Codes/258709.py)*]
 - [n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707) [*[code](Codes/258707.py)*]
 - [산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) [*[code](Codes/258705.py)*]
+- [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) [*[code](Codes/118669.py)*]
 
 ### Lv. 4
 - [1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364) [*[code](Codes/150364.py)*]
