@@ -61,6 +61,7 @@
 - [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) [*[code](Codes/118669.py)*]
 - [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) [*[code](Codes/92343.py)*]
 - [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) [*[code](Codes/92344.py)*]
+- [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) [*[code](Codes/92345.py)*]
 
 ### Lv. 4
 - [1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364) [*[code](Codes/150364.py)*]
