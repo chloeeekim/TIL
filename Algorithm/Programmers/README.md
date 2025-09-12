@@ -46,6 +46,7 @@
 - [1차 / 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) [*[code](Codes/17680.py)*]
 - [1차 / 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) [*[code](Codes/17679.py)*]
 - [1차 / 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) [*[code](Codes/17677.py)*]
+- [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) [*[code](Codes/81302.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
