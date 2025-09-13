@@ -65,6 +65,7 @@
 - [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) [*[code](Codes/92344.py)*]
 - [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) [*[code](Codes/92345.py)*]
 - [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) [*[code](Codes/77486.py)*]
+- [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) [*[code](Codes/81303.py)*]
 
 ### Lv. 4
 - [1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364) [*[code](Codes/150364.py)*]
