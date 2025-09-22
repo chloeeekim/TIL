@@ -70,6 +70,7 @@
 - [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) [*[code](Codes/92345.py)*]
 - [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) [*[code](Codes/77486.py)*]
 - [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) [*[code](Codes/81303.py)*]
+- [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) [*[code](Codes/64062.py)*]
 
 ### Lv. 4
 - [1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364) [*[code](Codes/150364.py)*]
