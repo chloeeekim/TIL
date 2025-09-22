@@ -50,6 +50,7 @@
 - [1차 / 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) [*[code](Codes/17677.py)*]
 - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) [*[code](Codes/81302.py)*]
 - [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) [*[code](Codes/67257.py)*]
+- [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) [*[code](Codes/64065.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
