@@ -24,6 +24,7 @@
 - [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) [*[code](Codes/86051.py)*]
 - [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) [*[code](Codes/87389.py)*]
 - [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) [*[code](Codes/76501.py)*]
+- [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) [*[code](Codes/77884.py)*]
 
 ### Lv. 2
 - [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[code](Codes/340212.py)*]
