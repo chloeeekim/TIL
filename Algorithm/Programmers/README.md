@@ -64,6 +64,7 @@
 - [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) [*[code](Codes/77885.py)*]
 - [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) [*[code](Codes/68645.py)*]
 - [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) [*[code](Codes/68936.py)*]
+- [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) [*[code](Codes/70129.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
