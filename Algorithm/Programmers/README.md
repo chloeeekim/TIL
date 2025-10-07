@@ -58,6 +58,7 @@
 - [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) [*[code](Codes/87390.py)*]
 - [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052) [*[code](Codes/86052.py)*]
 - [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) [*[code](Codes/76502.py)*]
+- [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) [*[code](Codes/77885.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
