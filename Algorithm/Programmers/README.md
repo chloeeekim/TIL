@@ -28,6 +28,7 @@
 - [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) [*[code](Codes/68644.py)*]
 - [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) [*[code](Codes/68935.py)*]
 - [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) [*[code](Codes/70128.py)*]
+- [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) [*[code](Codes/12977.py)*]
 
 ### Lv. 2
 - [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[code](Codes/340212.py)*]
