@@ -74,6 +74,7 @@
 - [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) [*[code](Codes/49993.py)*]
 - [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) [*[code](Codes/49994.py)*]
 - [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) [*[code](Codes/12973.py)*]
+- [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) [*[code](Codes/12985.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
