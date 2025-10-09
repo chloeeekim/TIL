@@ -33,6 +33,7 @@
 - [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) [*[code](Codes/82612.py)*]
 - [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) [*[code](Codes/178871.py)*]
 - [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) [*[code](Codes/176963.py)*]
+- [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) [*[code](Codes/172928.py)*]
 
 ### Lv. 2
 - [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[code](Codes/340212.py)*]
