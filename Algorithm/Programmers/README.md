@@ -71,6 +71,7 @@
 - [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) [*[code](Codes/12978.py)*]
 - [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) [*[code](Codes/12980.py)*]
 - [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) [*[code](Codes/12981.py)*]
+- [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) [*[code](Codes/49993.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
