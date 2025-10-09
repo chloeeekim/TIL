@@ -95,6 +95,7 @@
 - [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) [*[code](Codes/64062.py)*]
 - [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) [*[code](Codes/64064.py)*]
 - [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) [*[code](Codes/12979.py)*]
+- [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) [*[code](Codes/12987.py)*]
 
 ### Lv. 4
 - [1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364) [*[code](Codes/150364.py)*]
