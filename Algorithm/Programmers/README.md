@@ -36,6 +36,7 @@
 - [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) [*[code](Codes/172928.py)*]
 - [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) [*[code](Codes/161990.py)*]
 - [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) [*[code](Codes/161989.py)*]
+- [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) [*[code](Codes/160586.py)*]
 
 ### Lv. 2
 - [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[code](Codes/340212.py)*]
