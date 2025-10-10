@@ -40,6 +40,7 @@
 - [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) [*[code](Codes/159994.py)*]
 - [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) [*[code](Codes/155652.py)*]
 - [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) [*[code](Codes/147355.py)*]
+- [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) [*[code](Codes/142086.py)*]
 
 ### Lv. 2
 - [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[code](Codes/340212.py)*]
