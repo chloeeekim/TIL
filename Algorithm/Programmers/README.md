@@ -38,6 +38,7 @@
 - [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) [*[code](Codes/161989.py)*]
 - [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) [*[code](Codes/160586.py)*]
 - [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) [*[code](Codes/159994.py)*]
+- [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) [*[code](Codes/155652.py)*]
 
 ### Lv. 2
 - [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[code](Codes/340212.py)*]
