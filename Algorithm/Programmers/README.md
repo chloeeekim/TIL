@@ -89,6 +89,7 @@
 - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) [*[code](Codes/87377.py)*]
 - [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) [*[code](Codes/172927.py)*]
 - [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) [*[code](Codes/178870.py)*]
+- [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) [*[code](Codes/176962.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
