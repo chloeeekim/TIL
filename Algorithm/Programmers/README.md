@@ -95,6 +95,7 @@
 - [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) [*[code](Codes/181188.py)*]
 - [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) [*[code](Codes/160585.py)*]
 - [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) [*[code](Codes/159993.py)*]
+- [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) [*[code](Codes/155651.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
