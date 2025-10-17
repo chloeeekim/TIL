@@ -100,6 +100,7 @@
 - [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) [*[code](Codes/154539.py)*]
 - [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) [*[code](Codes/154538.py)*]
 - [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) [*[code](Codes/152996.py)*]
+- [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) [*[code](Codes/148653.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
