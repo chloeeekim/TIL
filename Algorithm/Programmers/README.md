@@ -103,6 +103,7 @@
 - [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) [*[code](Codes/148653.py)*]
 - [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) [*[code](Codes/147354.py)*]
 - [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) [*[code](Codes/138476.py)*]
+- [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) [*[code](Codes/131127.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
