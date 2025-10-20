@@ -107,6 +107,7 @@
 - [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) [*[code](Codes/131704.py)*]
 - [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) [*[code](Codes/142085.py)*]
 - [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) [*[code](Codes/140107.py)*]
+- [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239) [*[code](Codes/134239.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
