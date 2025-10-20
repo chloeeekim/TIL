@@ -109,6 +109,7 @@
 - [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) [*[code](Codes/140107.py)*]
 - [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239) [*[code](Codes/134239.py)*]
 - [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) [*[code](Codes/132265.py)*]
+- [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) [*[code](Codes/87946.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
