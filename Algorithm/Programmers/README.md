@@ -141,6 +141,7 @@
 - [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) [*[code](Codes/67258.py)*]
 - [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) [*[code](Codes/49191.py)*]
 - [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) [*[code](Codes/49189.py)*]
+- [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) [*[code](Codes/43238.py)*]
 
 ### Lv. 4
 - [1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364) [*[code](Codes/150364.py)*]
