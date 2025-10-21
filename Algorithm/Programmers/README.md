@@ -138,6 +138,7 @@
 - [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) [*[code](Codes/152995.py)*]
 - [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266) [*[code](Codes/132266.py)*]
 - [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129) [*[code](Codes/131129.py)*]
+- [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) [*[code](Codes/67258.py)*]
 
 ### Lv. 4
 - [1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364) [*[code](Codes/150364.py)*]
