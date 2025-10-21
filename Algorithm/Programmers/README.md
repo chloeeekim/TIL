@@ -136,6 +136,7 @@
 - [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) [*[code](Codes/12987.py)*]
 - [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) [*[code](Codes/12971.py)*]
 - [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) [*[code](Codes/152995.py)*]
+- [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266) [*[code](Codes/132266.py)*]
 
 ### Lv. 4
 - [1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364) [*[code](Codes/150364.py)*]
