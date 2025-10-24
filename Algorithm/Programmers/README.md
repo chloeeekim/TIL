@@ -154,6 +154,7 @@
 - [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) [*[code](Codes/42628.py)*]
 - [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) [*[code](Codes/42627.py)*]
 - [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) [*[code](Codes/42579.py)*]
+- [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) [*[code](Codes/12927.py)*]
 
 ### Lv. 4
 - [1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364) [*[code](Codes/150364.py)*]
