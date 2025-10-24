@@ -150,6 +150,7 @@
 - [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) [*[code](Codes/42884.py)*]
 - [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886) [*[code](Codes/77886.py)*]
 - [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503) [*[code](Codes/76503.py)*]
+- [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) [*[code](Codes/72414.py)*]
 
 ### Lv. 4
 - [1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364) [*[code](Codes/150364.py)*]
