@@ -152,6 +152,7 @@
 - [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503) [*[code](Codes/76503.py)*]
 - [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) [*[code](Codes/72414.py)*]
 - [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) [*[code](Codes/42628.py)*]
+- [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) [*[code](Codes/42627.py)*]
 
 ### Lv. 4
 - [1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364) [*[code](Codes/150364.py)*]
