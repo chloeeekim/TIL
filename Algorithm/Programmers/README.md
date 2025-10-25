@@ -156,6 +156,7 @@
 - [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) [*[code](Codes/42579.py)*]
 - [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) [*[code](Codes/12927.py)*]
 - [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) [*[code](Codes/12904.py)*]
+- [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) [*[code](Codes/42861.py)*]
 
 ### Lv. 4
 - [1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364) [*[code](Codes/150364.py)*]
