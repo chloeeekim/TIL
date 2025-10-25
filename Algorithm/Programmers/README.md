@@ -122,6 +122,7 @@
 - [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) [*[code](Codes/42587.py)*]
 - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) [*[code](Codes/42586.py)*]
 - [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) [*[code](Codes/42584.py)*]
+- [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) [*[code](Codes/42583.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
