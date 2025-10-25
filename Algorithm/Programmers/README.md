@@ -115,6 +115,7 @@
 - [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) [*[code](Codes/42885.py)*]
 - [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) [*[code](Codes/42883.py)*]
 - [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) [*[code](Codes/42842.py)*]
+- [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) [*[code](Codes/42839.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
