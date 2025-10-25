@@ -113,6 +113,7 @@
 - [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) [*[code](Codes/84512.py)*]
 - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) [*[code](Codes/43165.py)*]
 - [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) [*[code](Codes/42885.py)*]
+- [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) [*[code](Codes/42883.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
