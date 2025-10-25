@@ -120,6 +120,7 @@
 - [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) [*[code](Codes/42746.py)*]
 - [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) [*[code](Codes/42626.py)*]
 - [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) [*[code](Codes/42587.py)*]
+- [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) [*[code](Codes/42586.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
