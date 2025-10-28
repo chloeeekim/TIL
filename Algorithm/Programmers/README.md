@@ -51,6 +51,7 @@
 - [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) [*[code](Codes/132267.py)*]
 - [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) [*[code](Codes/131705.py)*]
 - [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) [*[code](Codes/131128.py)*]
+- [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) [*[code](Codes/86491.py)*]
 
 ### Lv. 2
 - [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[code](Codes/340212.py)*]
