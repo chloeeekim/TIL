@@ -48,6 +48,7 @@
 - [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) [*[code](Codes/134240.py)*]
 - [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) [*[code](Codes/133502.py)*]
 - [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) [*[code](Codes/133499.py)*]
+- [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) [*[code](Codes/132267.py)*]
 
 ### Lv. 2
 - [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[code](Codes/340212.py)*]
