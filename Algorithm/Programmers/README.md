@@ -44,6 +44,7 @@
 - [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) [*[code](Codes/140108.py)*]
 - [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) [*[code](Codes/138477.py)*]
 - [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) [*[code](Codes/136798.py)*]
+- [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) [*[code](Codes/135808.py)*]
 
 ### Lv. 2
 - [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[code](Codes/340212.py)*]
