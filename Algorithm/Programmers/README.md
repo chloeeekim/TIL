@@ -54,6 +54,7 @@
 - [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) [*[code](Codes/86491.py)*]
 - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) [*[code](Codes/42862.py)*]
 - [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) [*[code](Codes/42840.py)*]
+- [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) [*[code](Codes/42748.py)*]
 
 ### Lv. 2
 - [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[code](Codes/340212.py)*]
