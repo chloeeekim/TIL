@@ -143,6 +143,7 @@
 - [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) [*[code](Codes/42578.py)*]
 - [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) [*[code](Codes/42577.py)*]
 - [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) [*[code](Codes/12951.py)*]
+- [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) [*[code](Codes/17686.py)*]
 
 ### Lv. 3
 - [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[code](Codes/340210.py)*]
