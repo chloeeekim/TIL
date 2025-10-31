@@ -5,7 +5,7 @@
 - [PCCE 기출문제 10번 / 공원](https://school.programmers.co.kr/learn/courses/30/lessons/340198) [*[python](Python/340198.py)*]
 - [PCCE 기출문제 9번 / 이웃한 칸](https://school.programmers.co.kr/learn/courses/30/lessons/250125) [*[python](Python/250125.py)*]
 - [PCCE 기출문제 10번 / 데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121) [*[python](Python/250121.py)*]
-- [PCCP 기출문제 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) [*[python](Python/340213.py)*]
+- [PCCP 기출문제 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) [*[python](Python/340213.py)*] [*[kotlin](Kotlin/340213.kt)*]
 - [PCCP 기출문제 1번 / 붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137) [*[python](Python/250137.py)*]
 - [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) [*[python](Python/388351.py)*]
 - [택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478) [*[python](Python/389478.py)*]
