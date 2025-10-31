@@ -7,7 +7,7 @@
 - [PCCE 기출문제 10번 / 데이터 분석](https://school.programmers.co.kr/learn/courses/30/lessons/250121) [*[python](Python/250121.py)*]
 - [PCCP 기출문제 1번 / 동영상 재생기](https://school.programmers.co.kr/learn/courses/30/lessons/340213) [*[python](Python/340213.py)*] [*[kotlin](Kotlin/340213.kt)*]
 - [PCCP 기출문제 1번 / 붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137) [*[python](Python/250137.py)*]
-- [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) [*[python](Python/388351.py)*]
+- [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) [*[python](Python/388351.py)*] [*[kotlin](Kotlin/388351.kt)*]
 - [택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478) [*[python](Python/389478.py)*]
 - [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) [*[python](Python/258712.py)*]
 - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) [*[python](Python/150370.py)*]
