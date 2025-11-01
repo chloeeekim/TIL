@@ -9,7 +9,7 @@
 - [PCCP 기출문제 1번 / 붕대 감기](https://school.programmers.co.kr/learn/courses/30/lessons/250137) [*[python](Python/250137.py)*]
 - [유연근무제](https://school.programmers.co.kr/learn/courses/30/lessons/388351) [*[python](Python/388351.py)*] [*[kotlin](Kotlin/388351.kt)*]
 - [택배 상자 꺼내기](https://school.programmers.co.kr/learn/courses/30/lessons/389478) [*[python](Python/389478.py)*]
-- [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) [*[python](Python/258712.py)*]
+- [가장 많이 받은 선물](https://school.programmers.co.kr/learn/courses/30/lessons/258712) [*[python](Python/258712.py)*] [*[kotlin](Kotlin/258712.kt)*]
 - [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) [*[python](Python/150370.py)*]
 - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) [*[python](Python/118666.py)*]
 - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) [*[python](Python/92334.py)*]
