@@ -31,7 +31,7 @@
 - [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) [*[python](Python/12977.py)*]
 - [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) [*[python](Python/12982.py)*]
 - [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) [*[python](Python/82612.py)*]
-- [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) [*[python](Python/178871.py)*]
+- [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) [*[python](Python/178871.py)*] [*[kotlin](Kotlin/178871.kt)*]
 - [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) [*[python](Python/176963.py)*]
 - [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) [*[python](Python/172928.py)*]
 - [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) [*[python](Python/161990.py)*]
