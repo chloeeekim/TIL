@@ -39,7 +39,7 @@
 - [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) [*[python](Python/160586.py)*] [*[kotlin](Kotlin/160586.kt)*]
 - [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) [*[python](Python/159994.py)*] [*[kotlin](Kotlin/159994.kt)*]
 - [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) [*[python](Python/155652.py)*] [*[kotlin](Kotlin/155652.kt)*]
-- [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) [*[python](Python/147355.py)*]
+- [크기가 작은 부분문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355) [*[python](Python/147355.py)*] [*[kotlin](Kotlin/147355.kt)*]
 - [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) [*[python](Python/142086.py)*]
 - [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) [*[python](Python/140108.py)*]
 - [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) [*[python](Python/138477.py)*]
