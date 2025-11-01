@@ -34,7 +34,7 @@
 - [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) [*[python](Python/178871.py)*] [*[kotlin](Kotlin/178871.kt)*]
 - [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) [*[python](Python/176963.py)*] [*[kotlin](Kotlin/176963.kt)*]
 - [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) [*[python](Python/172928.py)*] [*[kotlin](Kotlin/172928.kt)*]
-- [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) [*[python](Python/161990.py)*]
+- [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) [*[python](Python/161990.py)*] [*[kotlin](Kotlin/161990.kt)*]
 - [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) [*[python](Python/161989.py)*]
 - [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) [*[python](Python/160586.py)*]
 - [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) [*[python](Python/159994.py)*]
