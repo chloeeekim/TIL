@@ -43,7 +43,7 @@
 - [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) [*[python](Python/142086.py)*] [*[kotlin](Kotlin/142086.kt)*]
 - [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) [*[python](Python/140108.py)*] [*[kotlin](Kotlin/140108.kt)*]
 - [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) [*[python](Python/138477.py)*] [*[kotlin](Kotlin/138477.kt)*]
-- [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) [*[python](Python/136798.py)*]
+- [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) [*[python](Python/136798.py)*] [*[kotlin](Kotlin/136798.kt)*]
 - [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) [*[python](Python/135808.py)*]
 - [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) [*[python](Python/134240.py)*]
 - [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) [*[python](Python/133502.py)*]
