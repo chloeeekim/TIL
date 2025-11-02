@@ -18,7 +18,7 @@
 - [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) [*[python](Python/42889.py)*]
 - [1차 / 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) [*[python](Python/17682.py)*]
 - [1차 / 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) [*[python](Python/17681.py)*]
-- [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) [*[python](Python/81301.py)*]
+- [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) [*[python](Python/81301.py)*] [*[kotlin](Kotlin/81301.kt)*]
 - [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) [*[python](Python/67256.py)*]
 - [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) [*[python](Python/64061.py)*]
 - [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) [*[python](Python/86051.py)*] [*[kotlin](Kotlin/86051.kt)*]
