@@ -14,7 +14,7 @@
 - [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) [*[python](Python/118666.py)*] [*[kotlin](Kotlin/118666.kt)*]
 - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334) [*[python](Python/92334.py)*] [*[kotlin](Kotlin/92334.kt)*]
 - [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) [*[python](Python/77484.py)*] [*[kotlin](Kotlin/77484.kt)*]
-- [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) [*[python](Python/72410.py)*]
+- [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) [*[python](Python/72410.py)*] [*[kotlin](Kotlin/72410.kt)*]
 - [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) [*[python](Python/42889.py)*]
 - [1차 / 다트 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) [*[python](Python/17682.py)*]
 - [1차 / 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) [*[python](Python/17681.py)*]
