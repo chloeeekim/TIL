@@ -27,7 +27,7 @@
 - [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) [*[python](Python/77884.py)*] [*[kotlin](Kotlin/77884.kt)*]
 - [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) [*[python](Python/68644.py)*]
 - [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) [*[python](Python/68935.py)*]
-- [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) [*[python](Python/70128.py)*]
+- [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) [*[python](Python/70128.py)*] [*[kotlin](Kotlin/70128.kt)*]
 - [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) [*[python](Python/12977.py)*]
 - [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) [*[python](Python/12982.py)*]
 - [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) [*[python](Python/82612.py)*] [*[kotlin](Kotlin/82612.kt)*]
