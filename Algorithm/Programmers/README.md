@@ -48,7 +48,7 @@
 - [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) [*[python](Python/134240.py)*] [*[kotlin](Kotlin/134240.kt)*]
 - [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) [*[python](Python/133502.py)*] [*[kotlin](Kotlin/133502.kt)*]
 - [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) [*[python](Python/133499.py)*] [*[kotlin](Kotlin/133499.kt)*]
-- [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) [*[python](Python/132267.py)*]
+- [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) [*[python](Python/132267.py)*] [*[kotlin](Kotlin/132267.kt)*]
 - [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) [*[python](Python/131705.py)*]
 - [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) [*[python](Python/131128.py)*]
 - [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) [*[python](Python/86491.py)*]
