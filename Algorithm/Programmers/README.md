@@ -23,7 +23,7 @@
 - [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) [*[python](Python/64061.py)*]
 - [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051) [*[python](Python/86051.py)*] [*[kotlin](Kotlin/86051.kt)*]
 - [나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) [*[python](Python/87389.py)*] [*[kotlin](Kotlin/87389.kt)*]
-- [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) [*[python](Python/76501.py)*]
+- [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) [*[python](Python/76501.py)*] [*[kotlin](Kotlin/76501.kt)*]
 - [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) [*[python](Python/77884.py)*] [*[kotlin](Kotlin/77884.kt)*]
 - [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) [*[python](Python/68644.py)*]
 - [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) [*[python](Python/68935.py)*]
