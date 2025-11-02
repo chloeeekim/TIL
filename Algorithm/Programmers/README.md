@@ -51,7 +51,7 @@
 - [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) [*[python](Python/132267.py)*] [*[kotlin](Kotlin/132267.kt)*]
 - [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) [*[python](Python/131705.py)*][*[kotlin](Kotlin/131705.kt)]
 - [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) [*[python](Python/131128.py)*] [*[kotlin](Kotlin/131128.kt)*]
-- [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) [*[python](Python/86491.py)*]
+- [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) [*[python](Python/86491.py)*] [*[kotlin](Kotlin/86491.kt)*]
 - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) [*[python](Python/42862.py)*]
 - [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) [*[python](Python/42840.py)*]
 - [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) [*[python](Python/42748.py)*]
