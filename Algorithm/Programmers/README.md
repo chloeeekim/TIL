@@ -46,7 +46,7 @@
 - [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) [*[python](Python/136798.py)*] [*[kotlin](Kotlin/136798.kt)*]
 - [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) [*[python](Python/135808.py)*] [*[kotlin](Kotlin/135808.kt)*]
 - [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) [*[python](Python/134240.py)*] [*[kotlin](Kotlin/134240.kt)*]
-- [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) [*[python](Python/133502.py)*]
+- [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) [*[python](Python/133502.py)*] [*[kotlin](Kotlin/133502.kt)*]
 - [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) [*[python](Python/133499.py)*]
 - [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) [*[python](Python/132267.py)*]
 - [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) [*[python](Python/131705.py)*]
