@@ -49,7 +49,7 @@
 - [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) [*[python](Python/133502.py)*] [*[kotlin](Kotlin/133502.kt)*]
 - [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) [*[python](Python/133499.py)*] [*[kotlin](Kotlin/133499.kt)*]
 - [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) [*[python](Python/132267.py)*] [*[kotlin](Kotlin/132267.kt)*]
-- [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) [*[python](Python/131705.py)*]
+- [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) [*[python](Python/131705.py)*][*[kotlin](Kotlin/131705.kt)]
 - [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) [*[python](Python/131128.py)*]
 - [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) [*[python](Python/86491.py)*]
 - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) [*[python](Python/42862.py)*]
