@@ -64,7 +64,7 @@
 - [PCCP 기출문제 3번 / 충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) [*[python](Python/340211.py)*]
 - [PCCP 기출문제 2번 / 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) [*[python](Python/250136.py)*]
 - [PCCP 기출문제 3번 / 아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135) [*[python](Python/250135.py)*]
-- [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352) [*[python](Python/388352.py)*]
+- [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352) [*[python](Python/388352.py)*] [*[kotlin](Kotlin/388352.kt)*]
 - [지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353) [*[python](Python/388353.py)*] [*[kotlin](Kotlin/388353.kt)*]
 - [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) [*[python](Python/389479.py)*] [*[kotlin](Kotlin/389479.kt)*]
 - [완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) [*[python](Python/389480.py)*] [*[kotlin](Kotlin/389480.kt)*]
