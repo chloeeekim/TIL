@@ -61,7 +61,7 @@
 
 ### Lv. 2
 - [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[python](Python/340212.py)*] [*[kotlin](Kotlin/340212.kt)*]
-- [PCCP 기출문제 3번 / 충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) [*[python](Python/340211.py)*]
+- [PCCP 기출문제 3번 / 충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) [*[python](Python/340211.py)*] [*[kotlin](Kotlin/340211.kt)*]
 - [PCCP 기출문제 2번 / 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) [*[python](Python/250136.py)*]
 - [PCCP 기출문제 3번 / 아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135) [*[python](Python/250135.py)*]
 - [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352) [*[python](Python/388352.py)*] [*[kotlin](Kotlin/388352.kt)*]
