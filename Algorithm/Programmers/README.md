@@ -28,7 +28,7 @@
 - [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) [*[python](Python/68644.py)*] [*[kotlin](Kotlin/68644.kt)*]
 - [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) [*[python](Python/68935.py)*] [*[kotlin](Kotlin/68935.kt)*]
 - [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) [*[python](Python/70128.py)*] [*[kotlin](Kotlin/70128.kt)*]
-- [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) [*[python](Python/12977.py)*]
+- [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977) [*[python](Python/12977.py)*] [*[kotlin](Kotlin/12977.kt)*]
 - [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) [*[python](Python/12982.py)*]
 - [부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) [*[python](Python/82612.py)*] [*[kotlin](Kotlin/82612.kt)*]
 - [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) [*[python](Python/178871.py)*] [*[kotlin](Kotlin/178871.kt)*]
