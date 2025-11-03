@@ -105,7 +105,7 @@
 - [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) [*[python](Python/12985.py)*]
 - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) [*[python](Python/87377.py)*]
 - [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) [*[python](Python/172927.py)*]
-- [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) [*[python](Python/178870.py)*]
+- [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) [*[python](Python/178870.py)*] [*[kotlin](Kotlin/178870.kt)*]
 - [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) [*[python](Python/176962.py)*]
 - [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) [*[python](Python/169199.py)*]
 - [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) [*[python](Python/181187.py)*] [*[kotlin](Kotlin/181187.kt)*]
