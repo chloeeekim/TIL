@@ -60,7 +60,7 @@
 - [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950) [*[python](Python/12950.py)*] [*[kotlin](Kotlin/12950.kt)*]
 
 ### Lv. 2
-- [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[python](Python/340212.py)*]
+- [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[python](Python/340212.py)*] [*[kotlin](Kotlin/340212.kt)*]
 - [PCCP 기출문제 3번 / 충돌위험 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/340211) [*[python](Python/340211.py)*]
 - [PCCP 기출문제 2번 / 석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136) [*[python](Python/250136.py)*]
 - [PCCP 기출문제 3번 / 아날로그 시계](https://school.programmers.co.kr/learn/courses/30/lessons/250135) [*[python](Python/250135.py)*]
