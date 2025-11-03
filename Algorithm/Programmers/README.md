@@ -67,7 +67,7 @@
 - [비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352) [*[python](Python/388352.py)*]
 - [지게차와 크레인](https://school.programmers.co.kr/learn/courses/30/lessons/388353) [*[python](Python/388353.py)*]
 - [서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) [*[python](Python/389479.py)*]
-- [완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) [*[python](Python/389480.py)*]
+- [완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480) [*[python](Python/389480.py)*] [*[kotlin](Kotlin/389480.kt)*]
 - [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) [*[python](Python/258711.py)*]
 - [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) [*[python](Python/150369.py)*]
 - [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) [*[python](Python/150368.py)*]
