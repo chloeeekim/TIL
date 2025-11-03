@@ -57,7 +57,7 @@
 - [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) [*[python](Python/42748.py)*] [*[kotlin](Kotlin/42748.kt)*]
 - [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) [*[python](Python/42576.py)*]
 - [x만큼 간격이 있는 x개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954) [*[python](Python/12954.py)*] [*[kotlin](Kotlin/12954.kt)*]
-- [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950) [*[python](Python/12950.py)*]
+- [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950) [*[python](Python/12950.py)*] [*[kotlin](Kotlin/12950.kt)*]
 
 ### Lv. 2
 - [PCCP 기출문제 2번 / 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/340212) [*[python](Python/340212.py)*]
