@@ -117,7 +117,7 @@
 - [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) [*[python](Python/154539.py)*] [*[kotlin](Kotlin/154539.kt)*]
 - [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) [*[python](Python/154538.py)*] [*[kotlin](Kotlin/154538.kt)*]
 - [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) [*[python](Python/152996.py)*] [*[kotlin](Kotlin/152996.kt)*]
-- [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) [*[python](Python/148653.py)*]
+- [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) [*[python](Python/148653.py)*] [*[kotlin](Kotlin/148653.kt)*]
 - [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) [*[python](Python/147354.py)*]
 - [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) [*[python](Python/138476.py)*]
 - [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) [*[python](Python/131127.py)*]
