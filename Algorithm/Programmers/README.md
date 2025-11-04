@@ -123,7 +123,7 @@
 - [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) [*[python](Python/131127.py)*]
 - [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) [*[python](Python/131704.py)*]
 - [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) [*[python](Python/142085.py)*] [*[kotlin](Kotlin/142085.kt)*]
-- [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) [*[python](Python/140107.py)*]
+- [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) [*[python](Python/140107.py)*] [*[kotlin](Kotlin/140107.kt)*]
 - [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239) [*[python](Python/134239.py)*]
 - [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) [*[python](Python/132265.py)*]
 - [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) [*[python](Python/87946.py)*]
