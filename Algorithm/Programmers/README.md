@@ -119,7 +119,7 @@
 - [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) [*[python](Python/152996.py)*] [*[kotlin](Kotlin/152996.kt)*]
 - [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) [*[python](Python/148653.py)*] [*[kotlin](Kotlin/148653.kt)*]
 - [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) [*[python](Python/147354.py)*] [*[kotlin](Kotlin/147354.kt)*]
-- [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) [*[python](Python/138476.py)*]
+- [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) [*[python](Python/138476.py)*] [*[kotlin](Kotlin/138476.kt)*]
 - [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) [*[python](Python/131127.py)*]
 - [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) [*[python](Python/131704.py)*]
 - [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) [*[python](Python/142085.py)*] [*[kotlin](Kotlin/142085.kt)*]
