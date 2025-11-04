@@ -111,7 +111,7 @@
 - [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) [*[python](Python/181187.py)*] [*[kotlin](Kotlin/181187.kt)*]
 - [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) [*[python](Python/181188.py)*] [*[kotlin](Kotlin/181188.kt)*]
 - [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) [*[python](Python/160585.py)*] [*[kotlin](Kotlin/160585.kt)*]
-- [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) [*[python](Python/159993.py)*]
+- [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) [*[python](Python/159993.py)*] [*[kotlin](Kotlin/159993.kt)*]
 - [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) [*[python](Python/155651.py)*]
 - [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) [*[python](Python/154540.py)*]
 - [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) [*[python](Python/154539.py)*]
