@@ -112,7 +112,7 @@
 - [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) [*[python](Python/181188.py)*] [*[kotlin](Kotlin/181188.kt)*]
 - [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) [*[python](Python/160585.py)*] [*[kotlin](Kotlin/160585.kt)*]
 - [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) [*[python](Python/159993.py)*] [*[kotlin](Kotlin/159993.kt)*]
-- [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) [*[python](Python/155651.py)*]
+- [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) [*[python](Python/155651.py)*] [*[kotlin](Kotlin/155651.kt)*]
 - [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) [*[python](Python/154540.py)*]
 - [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) [*[python](Python/154539.py)*]
 - [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) [*[python](Python/154538.py)*]
