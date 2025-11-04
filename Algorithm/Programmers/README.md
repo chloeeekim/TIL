@@ -115,7 +115,7 @@
 - [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) [*[python](Python/155651.py)*] [*[kotlin](Kotlin/155651.kt)*]
 - [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) [*[python](Python/154540.py)*] [*[kotlin](Kotlin/154540.kt)*]
 - [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) [*[python](Python/154539.py)*] [*[kotlin](Kotlin/154539.kt)*]
-- [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) [*[python](Python/154538.py)*]
+- [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) [*[python](Python/154538.py)*] [*[kotlin](Kotlin/154538.kt)*]
 - [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) [*[python](Python/152996.py)*]
 - [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) [*[python](Python/148653.py)*]
 - [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) [*[python](Python/147354.py)*]
