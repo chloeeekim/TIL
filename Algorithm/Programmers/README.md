@@ -85,7 +85,7 @@
 - [1차 / 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) [*[python](Python/17680.py)*]
 - [1차 / 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) [*[python](Python/17679.py)*]
 - [1차 / 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) [*[python](Python/17677.py)*]
-- [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) [*[python](Python/81302.py)*]
+- [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) [*[python](Python/81302.py)*] [*[kotlin](Kotlin/81302.kt)*]
 - [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) [*[python](Python/67257.py)*]
 - [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) [*[python](Python/64065.py)*]
 - [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) [*[python](Python/87390.py)*] [*[kotlin](Kotlin/87390.kt)*]
