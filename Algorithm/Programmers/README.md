@@ -121,7 +121,7 @@
 - [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) [*[python](Python/147354.py)*] [*[kotlin](Kotlin/147354.kt)*]
 - [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) [*[python](Python/138476.py)*] [*[kotlin](Kotlin/138476.kt)*]
 - [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) [*[python](Python/131127.py)*]
-- [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) [*[python](Python/131704.py)*]
+- [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) [*[python](Python/131704.py)*] [*[kotlin](Kotlin/131704.kt)*]
 - [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) [*[python](Python/142085.py)*] [*[kotlin](Kotlin/142085.kt)*]
 - [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) [*[python](Python/140107.py)*] [*[kotlin](Kotlin/140107.kt)*]
 - [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239) [*[python](Python/134239.py)*] [*[kotlin](Kotlin/134239.kt)*]
