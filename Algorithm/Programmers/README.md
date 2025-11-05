@@ -73,7 +73,7 @@
 - [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) [*[python](Python/150368.py)*] [*[kotlin](Kotlin/150368.kt)*]
 - [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) [*[python](Python/118667.py)*] [*[kotlin](Kotlin/118667.kt)*]
 - [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) [*[python](Python/92335.py)*]
-- [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) [*[python](Python/92341.py)*]
+- [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) [*[python](Python/92341.py)*] [*[kotlin](Kotlin/92341.kt)*]
 - [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) [*[python](Python/92342.py)*] [*[kotlin](Kotlin/92342.kt)*]
 - [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) [*[python](Python/77485.py)*]
 - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) [*[python](Python/72411.py)*]
