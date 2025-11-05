@@ -71,7 +71,7 @@
 - [도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711) [*[python](Python/258711.py)*] [*[kotlin](Kotlin/258711.kt)*]
 - [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) [*[python](Python/150369.py)*] [*[kotlin](Kotlin/150369.kt)*]
 - [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) [*[python](Python/150368.py)*] [*[kotlin](Kotlin/150368.kt)*]
-- [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) [*[python](Python/118667.py)*]
+- [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) [*[python](Python/118667.py)*] [*[kotlin](Kotlin/118667.kt)*]
 - [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) [*[python](Python/92335.py)*]
 - [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) [*[python](Python/92341.py)*]
 - [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) [*[python](Python/92342.py)*]
