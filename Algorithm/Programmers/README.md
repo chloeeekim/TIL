@@ -75,7 +75,7 @@
 - [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) [*[python](Python/92335.py)*] [*[kotlin](Kotlin/92335.kt)*]
 - [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) [*[python](Python/92341.py)*] [*[kotlin](Kotlin/92341.kt)*]
 - [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) [*[python](Python/92342.py)*] [*[kotlin](Kotlin/92342.kt)*]
-- [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) [*[python](Python/77485.py)*]
+- [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) [*[python](Python/77485.py)*] [*[kotlin](Kotlin/77485.kt)*]
 - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) [*[python](Python/72411.py)*]
 - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) [*[python](Python/72412.py)*]
 - [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) [*[python](Python/60057.py)*]
