@@ -77,7 +77,7 @@
 - [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) [*[python](Python/92342.py)*] [*[kotlin](Kotlin/92342.kt)*]
 - [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) [*[python](Python/77485.py)*] [*[kotlin](Kotlin/77485.kt)*]
 - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) [*[python](Python/72411.py)*]
-- [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) [*[python](Python/72412.py)*]
+- [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) [*[python](Python/72412.py)*] [*[kotlin](Kotlin/72412.kt)*]
 - [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) [*[python](Python/60057.py)*]
 - [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) [*[python](Python/60058.py)*]
 - [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) [*[python](Python/42888.py)*]
