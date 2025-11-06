@@ -90,7 +90,7 @@
 - [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) [*[python](Python/64065.py)*]
 - [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) [*[python](Python/87390.py)*] [*[kotlin](Kotlin/87390.kt)*]
 - [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052) [*[python](Python/86052.py)*] [*[kotlin](Kotlin/86052.kt)*]
-- [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) [*[python](Python/76502.py)*]
+- [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) [*[python](Python/76502.py)*] [*[kotlin](Kotlin/76502.kt)*]
 - [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) [*[python](Python/77885.py)*] [*[kotlin](Kotlin/77885.kt)*]
 - [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) [*[python](Python/68645.py)*]
 - [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) [*[python](Python/68936.py)*]
