@@ -94,7 +94,7 @@
 - [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) [*[python](Python/77885.py)*] [*[kotlin](Kotlin/77885.kt)*]
 - [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) [*[python](Python/68645.py)*]
 - [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) [*[python](Python/68936.py)*]
-- [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) [*[python](Python/70129.py)*]
+- [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) [*[python](Python/70129.py)*] [*[kotlin](Kotlin/70129.kt)*]
 - [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) [*[python](Python/62048.py)*]
 - [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) [*[python](Python/12978.py)*]
 - [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) [*[python](Python/12980.py)*]
