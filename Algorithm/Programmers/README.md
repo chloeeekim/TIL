@@ -87,7 +87,7 @@
 - [1차 / 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) [*[python](Python/17677.py)*]
 - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302) [*[python](Python/81302.py)*] [*[kotlin](Kotlin/81302.kt)*]
 - [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257) [*[python](Python/67257.py)*] [*[kotlin](Kotlin/67257.kt)*]
-- [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) [*[python](Python/64065.py)*]
+- [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) [*[python](Python/64065.py)*] [*[kotlin](Kotlin/64065.kt)*]
 - [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) [*[python](Python/87390.py)*] [*[kotlin](Kotlin/87390.kt)*]
 - [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052) [*[python](Python/86052.py)*] [*[kotlin](Kotlin/86052.kt)*]
 - [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) [*[python](Python/76502.py)*] [*[kotlin](Kotlin/76502.kt)*]
