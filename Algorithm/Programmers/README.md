@@ -128,7 +128,7 @@
 - [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) [*[python](Python/132265.py)*] [*[kotlin](Kotlin/132265.kt)*]
 - [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) [*[python](Python/87946.py)*] [*[kotlin](Kotlin/87946.kt)*]
 - [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) [*[python](Python/84512.py)*] [*[kotlin](Kotlin/84512.kt)*]
-- [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) [*[python](Python/43165.py)*]
+- [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) [*[python](Python/43165.py)*] [*[kotlin](Kotlin/43165.kt)*]
 - [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) [*[python](Python/42885.py)*]
 - [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) [*[python](Python/42883.py)*]
 - [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) [*[python](Python/42842.py)*]
