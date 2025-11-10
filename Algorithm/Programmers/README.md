@@ -79,7 +79,7 @@
 - [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) [*[python](Python/72411.py)*] [*[kotlin](Kotlin/72411.kt)*]
 - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) [*[python](Python/72412.py)*] [*[kotlin](Kotlin/72412.kt)*]
 - [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) [*[python](Python/60057.py)*]
-- [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) [*[python](Python/60058.py)*]
+- [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) [*[python](Python/60058.py)*] [*[kotlin](Kotlin/60058.kt)*]
 - [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) [*[python](Python/42888.py)*]
 - [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) [*[python](Python/42890.py)*]
 - [1차 / 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) [*[python](Python/17680.py)*]
