@@ -80,7 +80,7 @@
 - [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) [*[python](Python/72412.py)*] [*[kotlin](Kotlin/72412.kt)*]
 - [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) [*[python](Python/60057.py)*] [*[kotlin](Kotlin/60057.kt)*]
 - [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058) [*[python](Python/60058.py)*] [*[kotlin](Kotlin/60058.kt)*]
-- [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) [*[python](Python/42888.py)*]
+- [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) [*[python](Python/42888.py)*] [*[kotlin](Kotlin/42888.kt)*]
 - [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890) [*[python](Python/42890.py)*] [*[kotlin](Kotlin/42890.kt)*]
 - [1차 / 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) [*[python](Python/17680.py)*]
 - [1차 / 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) [*[python](Python/17679.py)*]
