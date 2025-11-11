@@ -137,7 +137,7 @@
 - [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) [*[python](Python/42746.py)*] [*[kotlin](Kotlin/42746.kt)*]
 - [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) [*[python](Python/42626.py)*]
 - [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) [*[python](Python/42587.py)*] [*[kotlin](Kotlin/42587.kt)*]
-- [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) [*[python](Python/42586.py)*]
+- [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) [*[python](Python/42586.py)*] [*[kotlin](Kotlin/42586.kt)*]
 - [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) [*[python](Python/42584.py)*]
 - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) [*[python](Python/42583.py)*]
 - [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) [*[python](Python/42578.py)*]
