@@ -142,7 +142,7 @@
 - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) [*[python](Python/42583.py)*] [*[kotlin](Kotlin/42583.kt)*]
 - [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) [*[python](Python/42578.py)*] [*[kotlin](Kotlin/42578.kt)*]
 - [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) [*[python](Python/42577.py)*]
-- [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) [*[python](Python/12951.py)*]
+- [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) [*[python](Python/12951.py)*] [*[kotlin](Kotlin/12951.kt)*]
 - [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) [*[python](Python/17686.py)*]
 - [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) [*[python](Python/17684.py)*]
 - [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) [*[python](Python/17683.py)*]
