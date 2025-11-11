@@ -132,7 +132,7 @@
 - [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) [*[python](Python/42885.py)*]
 - [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) [*[python](Python/42883.py)*] [*[kotlin](Kotlin/42883.kt)*]
 - [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) [*[python](Python/42842.py)*] [*[kotlin](Kotlin/42842.kt)*]
-- [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) [*[python](Python/42839.py)*]
+- [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839) [*[python](Python/42839.py)*] [*[kotlin](Kotlin/42839.kt)*]
 - [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) [*[python](Python/42747.py)*]
 - [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) [*[python](Python/42746.py)*]
 - [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) [*[python](Python/42626.py)*]
