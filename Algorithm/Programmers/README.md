@@ -96,7 +96,7 @@
 - [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) [*[python](Python/68936.py)*] [*[kotlin](Kotlin/68936.kt)*]
 - [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) [*[python](Python/70129.py)*] [*[kotlin](Kotlin/70129.kt)*]
 - [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048) [*[python](Python/62048.py)*] [*[kotlin](Kotlin/62048.kt)*]
-- [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) [*[python](Python/12978.py)*]
+- [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978) [*[python](Python/12978.py)*] [*[kotlin](Kotlin/12978.kt)*]
 - [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) [*[python](Python/12980.py)*]
 - [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) [*[python](Python/12981.py)*]
 - [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) [*[python](Python/49993.py)*]
