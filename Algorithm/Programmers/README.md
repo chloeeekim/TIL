@@ -102,7 +102,7 @@
 - [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) [*[python](Python/49993.py)*]
 - [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994) [*[python](Python/49994.py)*]
 - [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) [*[python](Python/12973.py)*]
-- [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) [*[python](Python/12985.py)*]
+- [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) [*[python](Python/12985.py)*] [*[kotlin](Kotlin/12985.kt)*]
 - [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377) [*[python](Python/87377.py)*] [*[kotlin](Kotlin/87377.kt)*]
 - [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) [*[python](Python/172927.py)*] [*[kotlin](Kotlin/172927.kt)*]
 - [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) [*[python](Python/178870.py)*] [*[kotlin](Kotlin/178870.kt)*]
