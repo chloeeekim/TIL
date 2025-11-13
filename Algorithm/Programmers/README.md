@@ -155,7 +155,7 @@
 - [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) [*[python](Python/150365.py)*]
 - [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) [*[python](Python/118668.py)*]
 - [홀짝트리](https://school.programmers.co.kr/learn/courses/30/lessons/388354) [*[python](Python/388354.py)*]
-- [봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481) [*[python](Python/389481.py)*]
+- [봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481) [*[python](Python/389481.py)*] [*[kotlin](Kotlin/389481.kt)*]
 - [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709) [*[python](Python/258709.py)*]
 - [n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707) [*[python](Python/258707.py)*]
 - [산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) [*[python](Python/258705.py)*]
