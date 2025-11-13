@@ -148,7 +148,7 @@
 - [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) [*[python](Python/17683.py)*]
 
 ### Lv. 3
-- [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[python](Python/340210.py)*]
+- [PCCP 기출문제 4번 / 수식 복원하기](https://school.programmers.co.kr/learn/courses/30/lessons/340210) [*[python](Python/340210.py)*] [*[kotlin](Kotlin/340210.kt)*]
 - [PCCP 기출문제 4번 / 수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134) [*[python](Python/250134.py)*]
 - [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) [*[python](Python/150367.py)*]
 - [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366) [*[python](Python/150366.py)*]
