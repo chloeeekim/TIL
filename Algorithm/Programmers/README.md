@@ -170,7 +170,7 @@
 - [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) [*[python](Python/12979.py)*]
 - [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) [*[python](Python/12987.py)*]
 - [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) [*[python](Python/12971.py)*]
-- [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) [*[python](Python/152995.py)*]
+- [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) [*[python](Python/152995.py)*] [*[kotlin](Kotlin/152995.kt)*]
 - [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266) [*[python](Python/132266.py)*]
 - [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129) [*[python](Python/131129.py)*]
 - [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) [*[python](Python/67258.py)*]
