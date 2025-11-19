@@ -172,7 +172,7 @@
 - [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971) [*[python](Python/12971.py)*]
 - [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) [*[python](Python/152995.py)*] [*[kotlin](Kotlin/152995.kt)*]
 - [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266) [*[python](Python/132266.py)*] [*[kotlin](Kotlin/132266.kt)*]
-- [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129) [*[python](Python/131129.py)*]
+- [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129) [*[python](Python/131129.py)*] [*[kotlin](Kotlin/131129.kt)*]
 - [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) [*[python](Python/67258.py)*]
 - [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) [*[python](Python/49191.py)*]
 - [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) [*[python](Python/49189.py)*]
