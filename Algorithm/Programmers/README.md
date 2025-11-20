@@ -183,7 +183,7 @@
 - [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) [*[python](Python/43105.py)*]
 - [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) [*[python](Python/42898.py)*]
 - [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) [*[python](Python/42884.py)*]
-- [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886) [*[python](Python/77886.py)*]
+- [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886) [*[python](Python/77886.py)*] [*[kotlin](Kotlin/77886.kt)*]
 - [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503) [*[python](Python/76503.py)*]
 - [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) [*[python](Python/72414.py)*]
 - [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) [*[python](Python/42628.py)*]
