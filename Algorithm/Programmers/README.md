@@ -153,7 +153,7 @@
 - [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) [*[python](Python/150367.py)*] [*[kotlin](Kotlin/150367.kt)*]
 - [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366) [*[python](Python/150366.py)*] [*[kotlin](Kotlin/150366.kt)*]
 - [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) [*[python](Python/150365.py)*] [*[kotlin](Kotlin/150365.kt)*]
-- [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) [*[python](Python/118668.py)*]
+- [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) [*[python](Python/118668.py)*] [*[kotlin](Kotlin/118668.kt)*]
 - [홀짝트리](https://school.programmers.co.kr/learn/courses/30/lessons/388354) [*[python](Python/388354.py)*] [*[kotlin](Kotlin/388354.kt)*]
 - [봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481) [*[python](Python/389481.py)*] [*[kotlin](Kotlin/389481.kt)*]
 - [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709) [*[python](Python/258709.py)*]
