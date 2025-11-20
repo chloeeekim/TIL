@@ -160,7 +160,7 @@
 - [n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707) [*[python](Python/258707.py)*] [*[kotlin](Kotlin/258707.kt)*]
 - [산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) [*[python](Python/258705.py)*] [*[kotlin](Kotlin/258705.kt)*]
 - [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) [*[python](Python/118669.py)*] [*[kotlin](Kotlin/118669.kt)*]
-- [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) [*[python](Python/92343.py)*]
+- [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) [*[python](Python/92343.py)*] [*[kotlin](Kotlin/92343.kt)*]
 - [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) [*[python](Python/92344.py)*] [*[kotlin](Kotlin/92344.kt)*]
 - [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) [*[python](Python/92345.py)*] [*[kotlin](Kotlin/92345.kt)*]
 - [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) [*[python](Python/77486.py)*]
