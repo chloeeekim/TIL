@@ -163,7 +163,7 @@
 - [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) [*[python](Python/92343.py)*] [*[kotlin](Kotlin/92343.kt)*]
 - [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) [*[python](Python/92344.py)*] [*[kotlin](Kotlin/92344.kt)*]
 - [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) [*[python](Python/92345.py)*] [*[kotlin](Kotlin/92345.kt)*]
-- [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) [*[python](Python/77486.py)*]
+- [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) [*[python](Python/77486.py)*] [*[kotlin](Kotlin/77486.kt)*]
 - [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) [*[python](Python/81303.py)*] [*[kotlin](Kotlin/81303.kt)*]
 - [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) [*[python](Python/64062.py)*]
 - [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) [*[python](Python/64064.py)*]
