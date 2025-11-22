@@ -194,7 +194,7 @@
 - [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) [*[python](Python/42861.py)*]
 - [선입 선출 스케줄링](https://school.programmers.co.kr/learn/courses/30/lessons/12920) [*[python](Python/12920.py)*]
 - [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907) [*[python](Python/12907.py)*]
-- [매칭 점수](https://school.programmers.co.kr/learn/courses/30/lessons/42893) [*[python](Python/42893.py)*]
+- [매칭 점수](https://school.programmers.co.kr/learn/courses/30/lessons/42893) [*[python](Python/42893.py)*] [*[kotlin](Kotlin/42893.kt)*]
 
 ### Lv. 4
 - [1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364) [*[python](Python/150364.py)*]
