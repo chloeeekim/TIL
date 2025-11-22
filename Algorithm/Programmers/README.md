@@ -186,7 +186,7 @@
 - [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886) [*[python](Python/77886.py)*] [*[kotlin](Kotlin/77886.kt)*]
 - [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503) [*[python](Python/76503.py)*] [*[kotlin](Kotlin/76503.kt)*]
 - [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414) [*[python](Python/72414.py)*] [*[kotlin](Kotlin/72414.kt)*]
-- [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) [*[python](Python/42628.py)*]
+- [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) [*[python](Python/42628.py)*] [*[kotlin](Kotlin/42628.kt)*]
 - [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) [*[python](Python/42627.py)*]
 - [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) [*[python](Python/42579.py)*]
 - [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) [*[python](Python/12927.py)*]
