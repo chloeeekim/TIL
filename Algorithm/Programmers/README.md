@@ -179,7 +179,7 @@
 - [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) [*[python](Python/43238.py)*] [*[kotlin](Kotlin/43238.kt)*]
 - [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) [*[python](Python/43164.py)*] [*[kotlin](Kotlin/43164.kt)*]
 - [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) [*[python](Python/43163.py)*] [*[kotlin](Kotlin/43163.kt)*]
-- [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) [*[python](Python/43162.py)*]
+- [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) [*[python](Python/43162.py)*] [*[kotlin](Kotlin/43162.kt)*]
 - [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) [*[python](Python/43105.py)*]
 - [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) [*[python](Python/42898.py)*]
 - [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) [*[python](Python/42884.py)*]
