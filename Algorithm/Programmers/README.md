@@ -177,7 +177,7 @@
 - [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) [*[python](Python/49191.py)*] [*[kotlin](Kotlin/49191.kt)*]
 - [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) [*[python](Python/49189.py)*] [*[kotlin](Kotlin/49189.kt)*]
 - [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) [*[python](Python/43238.py)*] [*[kotlin](Kotlin/43238.kt)*]
-- [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) [*[python](Python/43164.py)*]
+- [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) [*[python](Python/43164.py)*] [*[kotlin](Kotlin/43164.kt)*]
 - [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) [*[python](Python/43163.py)*]
 - [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) [*[python](Python/43162.py)*]
 - [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) [*[python](Python/43105.py)*]
