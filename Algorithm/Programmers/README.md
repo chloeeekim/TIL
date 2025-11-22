@@ -165,7 +165,7 @@
 - [사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345) [*[python](Python/92345.py)*] [*[kotlin](Kotlin/92345.kt)*]
 - [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486) [*[python](Python/77486.py)*] [*[kotlin](Kotlin/77486.kt)*]
 - [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303) [*[python](Python/81303.py)*] [*[kotlin](Kotlin/81303.kt)*]
-- [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) [*[python](Python/64062.py)*]
+- [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) [*[python](Python/64062.py)*] [*[kotlin](Kotlin/64062.kt)*]
 - [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) [*[python](Python/64064.py)*] [*[kotlin](Kotlin/64064.kt)*]
 - [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) [*[python](Python/12979.py)*]
 - [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) [*[python](Python/12987.py)*]
