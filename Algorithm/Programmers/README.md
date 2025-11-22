@@ -191,7 +191,7 @@
 - [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) [*[python](Python/42579.py)*]
 - [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) [*[python](Python/12927.py)*]
 - [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) [*[python](Python/12904.py)*]
-- [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) [*[python](Python/42861.py)*]
+- [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) [*[python](Python/42861.py)*] [*[kotlin](Kotlin/42861.kt)*]
 - [선입 선출 스케줄링](https://school.programmers.co.kr/learn/courses/30/lessons/12920) [*[python](Python/12920.py)*]
 - [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907) [*[python](Python/12907.py)*]
 - [매칭 점수](https://school.programmers.co.kr/learn/courses/30/lessons/42893) [*[python](Python/42893.py)*] [*[kotlin](Kotlin/42893.kt)*]
