@@ -174,7 +174,7 @@
 - [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266) [*[python](Python/132266.py)*] [*[kotlin](Kotlin/132266.kt)*]
 - [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129) [*[python](Python/131129.py)*] [*[kotlin](Kotlin/131129.kt)*]
 - [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) [*[python](Python/67258.py)*] [*[kotlin](Kotlin/67258.kt)*]
-- [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) [*[python](Python/49191.py)*]
+- [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) [*[python](Python/49191.py)*] [*[kotlin](Kotlin/49191.kt)*]
 - [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) [*[python](Python/49189.py)*]
 - [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) [*[python](Python/43238.py)*]
 - [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) [*[python](Python/43164.py)*]
