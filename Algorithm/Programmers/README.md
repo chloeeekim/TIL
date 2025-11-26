@@ -190,7 +190,7 @@
 - [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) [*[python](Python/42627.py)*] [*[kotlin](Kotlin/42627.kt)*]
 - [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) [*[python](Python/42579.py)*] [*[kotlin](Kotlin/42579.kt)*]
 - [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) [*[python](Python/12927.py)*]
-- [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) [*[python](Python/12904.py)*]
+- [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) [*[python](Python/12904.py)*] [*[kotlin](Kotlin/12904.kt)*]
 - [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) [*[python](Python/42861.py)*] [*[kotlin](Kotlin/42861.kt)*]
 - [선입 선출 스케줄링](https://school.programmers.co.kr/learn/courses/30/lessons/12920) [*[python](Python/12920.py)*]
 - [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907) [*[python](Python/12907.py)*]
